@@ -1,0 +1,21 @@
+Actividad_ID,Tipo_Actividad,Nombre_Actividad,Duracion_Estimada_Hrs,Costo_Estimado_USD
+1,Preventiva,Cambio de aceite,4.0,1200
+2,Preventiva,Cambio de filtros,3.0,800
+3,Preventiva,Inspección general,5.0,500
+4,Preventiva,Engrase general,2.0,300
+5,Preventiva,Ajuste de frenos,4.0,900
+6,Preventiva,Revisión sistema hidráulico,6.0,1500
+7,Preventiva,Revisión sistema eléctrico,5.0,1100
+8,Predictiva,Análisis de aceite,2.0,400
+9,Predictiva,Termografía,3.0,600
+10,Predictiva,Análisis de vibraciones,3.0,700
+11,Predictiva,Inspección con ultrasonido,4.0,900
+12,Correctiva,Reparación por falla,8.0,3500
+13,Correctiva,Reemplazo de componente,10.0,8500
+14,Correctiva,Ajuste por falla menor,3.0,1200
+15,Mayor,Overhaul de motor,80.0,85000
+16,Mayor,Overhaul de transmisión,60.0,55000
+17,Mayor,Reconstrucción de cucharón,40.0,35000
+18,Mayor,Mantenimiento mayor 10K hrs,120.0,150000
+19,Inspección,Inspección pre-turno,0.5,80
+20,Inspección,Inspección semanal,2.0,300

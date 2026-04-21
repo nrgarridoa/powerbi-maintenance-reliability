@@ -1,0 +1,17 @@
+CausaRaiz_ID,Categoria_Causa,Causa_Raiz,Descripcion
+1,Humano,Error de operación,Operación fuera de parámetros por el operador
+2,Humano,Error humano,Error no intencional del personal
+3,Humano,Error de montaje,Instalación incorrecta en mantenimiento anterior
+4,Material,Fatiga de material,Desgaste normal del material
+5,Material,Defecto de fabricación,Material defectuoso desde origen
+6,Material,Repuestos no originales,Uso de repuestos no OEM
+7,Diseño,Subdimensionamiento,Componente insuficiente para la carga
+8,Operación,Sobrecarga de trabajo,Operación por encima de la capacidad nominal
+9,Operación,Uso intensivo,Horas de operación superiores a la planificación
+10,Operación,Condiciones extremas de terreno,Operación en terreno más agresivo de lo normal
+11,Operación,Condiciones climáticas,"Lluvias, temperaturas extremas, polvo"
+12,Mantenimiento,Falta de mantenimiento preventivo,Incumplimiento del plan preventivo
+13,Mantenimiento,Mantenimiento deficiente,Mantenimiento ejecutado sin calidad
+14,Mantenimiento,Deficiencia en inspección,Falla no detectada durante inspección
+15,Externo,Contaminación de fluidos,"Contaminación de aceite, combustible o refrigerante"
+16,Externo,Impacto/Colisión,Daño por impacto externo

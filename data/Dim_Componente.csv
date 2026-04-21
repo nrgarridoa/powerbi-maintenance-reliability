@@ -1,0 +1,37 @@
+Componente_ID,Sistema,Subsistema,Componente,Tipo_Equipo_Aplicable,Beta_Weibull,Eta_Weibull_Hrs,Costo_Repuesto_Promedio_USD
+1,Motor Diesel,Bloque motor,Pistones,Todos,2.3,4500,8500
+2,Motor Diesel,Bloque motor,Cigüeñal,Todos,2.5,6000,12000
+3,Motor Diesel,Alimentación,Inyectores,Todos,1.8,3500,2200
+4,Motor Diesel,Lubricación,Bomba de aceite,Todos,2.0,4200,1800
+5,Motor Diesel,Refrigeración,Radiador,Todos,1.5,3800,3500
+6,Motor Diesel,Turbo,Turbocompresor,Todos,2.1,4000,6500
+7,Sistema Eléctrico,Generación,Alternador,Todos,1.2,2800,2500
+8,Sistema Eléctrico,Almacenaje,Baterías,Todos,2.8,2200,800
+9,Sistema Eléctrico,Distribución,Cableado principal,Todos,1.1,3500,1200
+10,Sistema Eléctrico,Control,PLC/ECU,Todos,1.0,4000,4500
+11,Sistema Eléctrico,Motores,Motor eléctrico tracción,Pala,1.4,5500,15000
+12,Sistema Hidráulico,Potencia,Bomba hidráulica principal,Todos,1.9,3800,7500
+13,Sistema Hidráulico,Actuadores,Cilindros hidráulicos,Todos,2.0,4200,3800
+14,Sistema Hidráulico,Mangueras,Mangueras alta presión,Todos,1.6,2500,450
+15,Sistema Hidráulico,Válvulas,Válvulas de control,Todos,1.7,3200,2100
+16,Sistema Hidráulico,Filtrado,Filtros hidráulicos,Todos,3.0,1500,280
+17,Transmisión,Caja,Caja de cambios,Camión,2.1,4500,18000
+18,Transmisión,Diferencial,Diferencial,Camión,2.2,5000,12000
+19,Transmisión,Convertidor,Convertidor de par,Camión,1.9,4200,9500
+20,Sistema de Frenos,Servicio,Pastillas de freno,Camión,3.2,2200,650
+21,Sistema de Frenos,Servicio,Discos de freno,Camión,2.8,3500,1800
+22,Sistema de Frenos,Retardo,Retardador,Camión,2.0,4000,5500
+23,Neumáticos,OTR,Neumático delantero,Camión,3.5,4500,28000
+24,Neumáticos,OTR,Neumático trasero,Camión,3.3,4000,28000
+25,Estructura,Chasis,Chasis principal,Todos,1.8,9000,25000
+26,Estructura,Tolva,Tolva,Camión,2.0,7500,18000
+27,Estructura,Orugas,Cadenas de oruga,Pala,2.7,5000,35000
+28,Estructura,Orugas,Rodillos,Pala,2.4,4500,2800
+29,Implemento,Excavación,Cucharón,Pala,2.5,3500,45000
+30,Implemento,Excavación,Dientes de cucharón,Pala,3.8,1200,1800
+31,Implemento,Perforación,Broca,Perforadora,2.9,1800,4500
+32,Implemento,Perforación,Torre,Perforadora,1.7,6000,22000
+33,Implemento,Perforación,Martillo,Perforadora,2.3,3500,8500
+34,Implemento,Perforación,Compresor de aire,Perforadora,2.0,4000,6500
+35,Cabina,Confort,Aire acondicionado,Todos,1.3,3500,1800
+36,Cabina,Operador,Asiento,Todos,1.8,6000,2200

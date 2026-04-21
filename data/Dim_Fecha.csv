@@ -1,0 +1,1097 @@
+Fecha,Anio,Mes,NombreMes,Trimestre,Semana,Dia,NombreDia,EsFinDeSemana,AnioMes,EsFeriadoPE,Temporada
+2023-01-01,2023,1,enero,1,52,1,domingo,True,2023-01,True,Lluvias
+2023-01-02,2023,1,enero,1,1,2,lunes,False,2023-01,False,Lluvias
+2023-01-03,2023,1,enero,1,1,3,martes,False,2023-01,False,Lluvias
+2023-01-04,2023,1,enero,1,1,4,miércoles,False,2023-01,False,Lluvias
+2023-01-05,2023,1,enero,1,1,5,jueves,False,2023-01,False,Lluvias
+2023-01-06,2023,1,enero,1,1,6,viernes,False,2023-01,False,Lluvias
+2023-01-07,2023,1,enero,1,1,7,sábado,True,2023-01,False,Lluvias
+2023-01-08,2023,1,enero,1,1,8,domingo,True,2023-01,False,Lluvias
+2023-01-09,2023,1,enero,1,2,9,lunes,False,2023-01,False,Lluvias
+2023-01-10,2023,1,enero,1,2,10,martes,False,2023-01,False,Lluvias
+2023-01-11,2023,1,enero,1,2,11,miércoles,False,2023-01,False,Lluvias
+2023-01-12,2023,1,enero,1,2,12,jueves,False,2023-01,False,Lluvias
+2023-01-13,2023,1,enero,1,2,13,viernes,False,2023-01,False,Lluvias
+2023-01-14,2023,1,enero,1,2,14,sábado,True,2023-01,False,Lluvias
+2023-01-15,2023,1,enero,1,2,15,domingo,True,2023-01,False,Lluvias
+2023-01-16,2023,1,enero,1,3,16,lunes,False,2023-01,False,Lluvias
+2023-01-17,2023,1,enero,1,3,17,martes,False,2023-01,False,Lluvias
+2023-01-18,2023,1,enero,1,3,18,miércoles,False,2023-01,False,Lluvias
+2023-01-19,2023,1,enero,1,3,19,jueves,False,2023-01,False,Lluvias
+2023-01-20,2023,1,enero,1,3,20,viernes,False,2023-01,False,Lluvias
+2023-01-21,2023,1,enero,1,3,21,sábado,True,2023-01,False,Lluvias
+2023-01-22,2023,1,enero,1,3,22,domingo,True,2023-01,False,Lluvias
+2023-01-23,2023,1,enero,1,4,23,lunes,False,2023-01,False,Lluvias
+2023-01-24,2023,1,enero,1,4,24,martes,False,2023-01,False,Lluvias
+2023-01-25,2023,1,enero,1,4,25,miércoles,False,2023-01,False,Lluvias
+2023-01-26,2023,1,enero,1,4,26,jueves,False,2023-01,False,Lluvias
+2023-01-27,2023,1,enero,1,4,27,viernes,False,2023-01,False,Lluvias
+2023-01-28,2023,1,enero,1,4,28,sábado,True,2023-01,False,Lluvias
+2023-01-29,2023,1,enero,1,4,29,domingo,True,2023-01,False,Lluvias
+2023-01-30,2023,1,enero,1,5,30,lunes,False,2023-01,False,Lluvias
+2023-01-31,2023,1,enero,1,5,31,martes,False,2023-01,False,Lluvias
+2023-02-01,2023,2,febrero,1,5,1,miércoles,False,2023-02,False,Lluvias
+2023-02-02,2023,2,febrero,1,5,2,jueves,False,2023-02,False,Lluvias
+2023-02-03,2023,2,febrero,1,5,3,viernes,False,2023-02,False,Lluvias
+2023-02-04,2023,2,febrero,1,5,4,sábado,True,2023-02,False,Lluvias
+2023-02-05,2023,2,febrero,1,5,5,domingo,True,2023-02,False,Lluvias
+2023-02-06,2023,2,febrero,1,6,6,lunes,False,2023-02,False,Lluvias
+2023-02-07,2023,2,febrero,1,6,7,martes,False,2023-02,False,Lluvias
+2023-02-08,2023,2,febrero,1,6,8,miércoles,False,2023-02,False,Lluvias
+2023-02-09,2023,2,febrero,1,6,9,jueves,False,2023-02,False,Lluvias
+2023-02-10,2023,2,febrero,1,6,10,viernes,False,2023-02,False,Lluvias
+2023-02-11,2023,2,febrero,1,6,11,sábado,True,2023-02,False,Lluvias
+2023-02-12,2023,2,febrero,1,6,12,domingo,True,2023-02,False,Lluvias
+2023-02-13,2023,2,febrero,1,7,13,lunes,False,2023-02,False,Lluvias
+2023-02-14,2023,2,febrero,1,7,14,martes,False,2023-02,False,Lluvias
+2023-02-15,2023,2,febrero,1,7,15,miércoles,False,2023-02,False,Lluvias
+2023-02-16,2023,2,febrero,1,7,16,jueves,False,2023-02,False,Lluvias
+2023-02-17,2023,2,febrero,1,7,17,viernes,False,2023-02,False,Lluvias
+2023-02-18,2023,2,febrero,1,7,18,sábado,True,2023-02,False,Lluvias
+2023-02-19,2023,2,febrero,1,7,19,domingo,True,2023-02,False,Lluvias
+2023-02-20,2023,2,febrero,1,8,20,lunes,False,2023-02,False,Lluvias
+2023-02-21,2023,2,febrero,1,8,21,martes,False,2023-02,False,Lluvias
+2023-02-22,2023,2,febrero,1,8,22,miércoles,False,2023-02,False,Lluvias
+2023-02-23,2023,2,febrero,1,8,23,jueves,False,2023-02,False,Lluvias
+2023-02-24,2023,2,febrero,1,8,24,viernes,False,2023-02,False,Lluvias
+2023-02-25,2023,2,febrero,1,8,25,sábado,True,2023-02,False,Lluvias
+2023-02-26,2023,2,febrero,1,8,26,domingo,True,2023-02,False,Lluvias
+2023-02-27,2023,2,febrero,1,9,27,lunes,False,2023-02,False,Lluvias
+2023-02-28,2023,2,febrero,1,9,28,martes,False,2023-02,False,Lluvias
+2023-03-01,2023,3,marzo,1,9,1,miércoles,False,2023-03,False,Lluvias
+2023-03-02,2023,3,marzo,1,9,2,jueves,False,2023-03,False,Lluvias
+2023-03-03,2023,3,marzo,1,9,3,viernes,False,2023-03,False,Lluvias
+2023-03-04,2023,3,marzo,1,9,4,sábado,True,2023-03,False,Lluvias
+2023-03-05,2023,3,marzo,1,9,5,domingo,True,2023-03,False,Lluvias
+2023-03-06,2023,3,marzo,1,10,6,lunes,False,2023-03,False,Lluvias
+2023-03-07,2023,3,marzo,1,10,7,martes,False,2023-03,False,Lluvias
+2023-03-08,2023,3,marzo,1,10,8,miércoles,False,2023-03,False,Lluvias
+2023-03-09,2023,3,marzo,1,10,9,jueves,False,2023-03,False,Lluvias
+2023-03-10,2023,3,marzo,1,10,10,viernes,False,2023-03,False,Lluvias
+2023-03-11,2023,3,marzo,1,10,11,sábado,True,2023-03,False,Lluvias
+2023-03-12,2023,3,marzo,1,10,12,domingo,True,2023-03,False,Lluvias
+2023-03-13,2023,3,marzo,1,11,13,lunes,False,2023-03,False,Lluvias
+2023-03-14,2023,3,marzo,1,11,14,martes,False,2023-03,False,Lluvias
+2023-03-15,2023,3,marzo,1,11,15,miércoles,False,2023-03,False,Lluvias
+2023-03-16,2023,3,marzo,1,11,16,jueves,False,2023-03,False,Lluvias
+2023-03-17,2023,3,marzo,1,11,17,viernes,False,2023-03,False,Lluvias
+2023-03-18,2023,3,marzo,1,11,18,sábado,True,2023-03,False,Lluvias
+2023-03-19,2023,3,marzo,1,11,19,domingo,True,2023-03,False,Lluvias
+2023-03-20,2023,3,marzo,1,12,20,lunes,False,2023-03,False,Lluvias
+2023-03-21,2023,3,marzo,1,12,21,martes,False,2023-03,False,Lluvias
+2023-03-22,2023,3,marzo,1,12,22,miércoles,False,2023-03,False,Lluvias
+2023-03-23,2023,3,marzo,1,12,23,jueves,False,2023-03,False,Lluvias
+2023-03-24,2023,3,marzo,1,12,24,viernes,False,2023-03,False,Lluvias
+2023-03-25,2023,3,marzo,1,12,25,sábado,True,2023-03,False,Lluvias
+2023-03-26,2023,3,marzo,1,12,26,domingo,True,2023-03,False,Lluvias
+2023-03-27,2023,3,marzo,1,13,27,lunes,False,2023-03,False,Lluvias
+2023-03-28,2023,3,marzo,1,13,28,martes,False,2023-03,False,Lluvias
+2023-03-29,2023,3,marzo,1,13,29,miércoles,False,2023-03,False,Lluvias
+2023-03-30,2023,3,marzo,1,13,30,jueves,False,2023-03,False,Lluvias
+2023-03-31,2023,3,marzo,1,13,31,viernes,False,2023-03,False,Lluvias
+2023-04-01,2023,4,abril,2,13,1,sábado,True,2023-04,False,Otoño
+2023-04-02,2023,4,abril,2,13,2,domingo,True,2023-04,False,Otoño
+2023-04-03,2023,4,abril,2,14,3,lunes,False,2023-04,False,Otoño
+2023-04-04,2023,4,abril,2,14,4,martes,False,2023-04,False,Otoño
+2023-04-05,2023,4,abril,2,14,5,miércoles,False,2023-04,False,Otoño
+2023-04-06,2023,4,abril,2,14,6,jueves,False,2023-04,False,Otoño
+2023-04-07,2023,4,abril,2,14,7,viernes,False,2023-04,False,Otoño
+2023-04-08,2023,4,abril,2,14,8,sábado,True,2023-04,False,Otoño
+2023-04-09,2023,4,abril,2,14,9,domingo,True,2023-04,False,Otoño
+2023-04-10,2023,4,abril,2,15,10,lunes,False,2023-04,False,Otoño
+2023-04-11,2023,4,abril,2,15,11,martes,False,2023-04,False,Otoño
+2023-04-12,2023,4,abril,2,15,12,miércoles,False,2023-04,False,Otoño
+2023-04-13,2023,4,abril,2,15,13,jueves,False,2023-04,False,Otoño
+2023-04-14,2023,4,abril,2,15,14,viernes,False,2023-04,False,Otoño
+2023-04-15,2023,4,abril,2,15,15,sábado,True,2023-04,False,Otoño
+2023-04-16,2023,4,abril,2,15,16,domingo,True,2023-04,False,Otoño
+2023-04-17,2023,4,abril,2,16,17,lunes,False,2023-04,False,Otoño
+2023-04-18,2023,4,abril,2,16,18,martes,False,2023-04,False,Otoño
+2023-04-19,2023,4,abril,2,16,19,miércoles,False,2023-04,False,Otoño
+2023-04-20,2023,4,abril,2,16,20,jueves,False,2023-04,False,Otoño
+2023-04-21,2023,4,abril,2,16,21,viernes,False,2023-04,False,Otoño
+2023-04-22,2023,4,abril,2,16,22,sábado,True,2023-04,False,Otoño
+2023-04-23,2023,4,abril,2,16,23,domingo,True,2023-04,False,Otoño
+2023-04-24,2023,4,abril,2,17,24,lunes,False,2023-04,False,Otoño
+2023-04-25,2023,4,abril,2,17,25,martes,False,2023-04,False,Otoño
+2023-04-26,2023,4,abril,2,17,26,miércoles,False,2023-04,False,Otoño
+2023-04-27,2023,4,abril,2,17,27,jueves,False,2023-04,False,Otoño
+2023-04-28,2023,4,abril,2,17,28,viernes,False,2023-04,False,Otoño
+2023-04-29,2023,4,abril,2,17,29,sábado,True,2023-04,False,Otoño
+2023-04-30,2023,4,abril,2,17,30,domingo,True,2023-04,False,Otoño
+2023-05-01,2023,5,mayo,2,18,1,lunes,False,2023-05,True,Otoño
+2023-05-02,2023,5,mayo,2,18,2,martes,False,2023-05,False,Otoño
+2023-05-03,2023,5,mayo,2,18,3,miércoles,False,2023-05,False,Otoño
+2023-05-04,2023,5,mayo,2,18,4,jueves,False,2023-05,False,Otoño
+2023-05-05,2023,5,mayo,2,18,5,viernes,False,2023-05,False,Otoño
+2023-05-06,2023,5,mayo,2,18,6,sábado,True,2023-05,False,Otoño
+2023-05-07,2023,5,mayo,2,18,7,domingo,True,2023-05,False,Otoño
+2023-05-08,2023,5,mayo,2,19,8,lunes,False,2023-05,False,Otoño
+2023-05-09,2023,5,mayo,2,19,9,martes,False,2023-05,False,Otoño
+2023-05-10,2023,5,mayo,2,19,10,miércoles,False,2023-05,False,Otoño
+2023-05-11,2023,5,mayo,2,19,11,jueves,False,2023-05,False,Otoño
+2023-05-12,2023,5,mayo,2,19,12,viernes,False,2023-05,False,Otoño
+2023-05-13,2023,5,mayo,2,19,13,sábado,True,2023-05,False,Otoño
+2023-05-14,2023,5,mayo,2,19,14,domingo,True,2023-05,False,Otoño
+2023-05-15,2023,5,mayo,2,20,15,lunes,False,2023-05,False,Otoño
+2023-05-16,2023,5,mayo,2,20,16,martes,False,2023-05,False,Otoño
+2023-05-17,2023,5,mayo,2,20,17,miércoles,False,2023-05,False,Otoño
+2023-05-18,2023,5,mayo,2,20,18,jueves,False,2023-05,False,Otoño
+2023-05-19,2023,5,mayo,2,20,19,viernes,False,2023-05,False,Otoño
+2023-05-20,2023,5,mayo,2,20,20,sábado,True,2023-05,False,Otoño
+2023-05-21,2023,5,mayo,2,20,21,domingo,True,2023-05,False,Otoño
+2023-05-22,2023,5,mayo,2,21,22,lunes,False,2023-05,False,Otoño
+2023-05-23,2023,5,mayo,2,21,23,martes,False,2023-05,False,Otoño
+2023-05-24,2023,5,mayo,2,21,24,miércoles,False,2023-05,False,Otoño
+2023-05-25,2023,5,mayo,2,21,25,jueves,False,2023-05,False,Otoño
+2023-05-26,2023,5,mayo,2,21,26,viernes,False,2023-05,False,Otoño
+2023-05-27,2023,5,mayo,2,21,27,sábado,True,2023-05,False,Otoño
+2023-05-28,2023,5,mayo,2,21,28,domingo,True,2023-05,False,Otoño
+2023-05-29,2023,5,mayo,2,22,29,lunes,False,2023-05,False,Otoño
+2023-05-30,2023,5,mayo,2,22,30,martes,False,2023-05,False,Otoño
+2023-05-31,2023,5,mayo,2,22,31,miércoles,False,2023-05,False,Otoño
+2023-06-01,2023,6,junio,2,22,1,jueves,False,2023-06,False,Invierno seco
+2023-06-02,2023,6,junio,2,22,2,viernes,False,2023-06,False,Invierno seco
+2023-06-03,2023,6,junio,2,22,3,sábado,True,2023-06,False,Invierno seco
+2023-06-04,2023,6,junio,2,22,4,domingo,True,2023-06,False,Invierno seco
+2023-06-05,2023,6,junio,2,23,5,lunes,False,2023-06,False,Invierno seco
+2023-06-06,2023,6,junio,2,23,6,martes,False,2023-06,False,Invierno seco
+2023-06-07,2023,6,junio,2,23,7,miércoles,False,2023-06,False,Invierno seco
+2023-06-08,2023,6,junio,2,23,8,jueves,False,2023-06,False,Invierno seco
+2023-06-09,2023,6,junio,2,23,9,viernes,False,2023-06,False,Invierno seco
+2023-06-10,2023,6,junio,2,23,10,sábado,True,2023-06,False,Invierno seco
+2023-06-11,2023,6,junio,2,23,11,domingo,True,2023-06,False,Invierno seco
+2023-06-12,2023,6,junio,2,24,12,lunes,False,2023-06,False,Invierno seco
+2023-06-13,2023,6,junio,2,24,13,martes,False,2023-06,False,Invierno seco
+2023-06-14,2023,6,junio,2,24,14,miércoles,False,2023-06,False,Invierno seco
+2023-06-15,2023,6,junio,2,24,15,jueves,False,2023-06,False,Invierno seco
+2023-06-16,2023,6,junio,2,24,16,viernes,False,2023-06,False,Invierno seco
+2023-06-17,2023,6,junio,2,24,17,sábado,True,2023-06,False,Invierno seco
+2023-06-18,2023,6,junio,2,24,18,domingo,True,2023-06,False,Invierno seco
+2023-06-19,2023,6,junio,2,25,19,lunes,False,2023-06,False,Invierno seco
+2023-06-20,2023,6,junio,2,25,20,martes,False,2023-06,False,Invierno seco
+2023-06-21,2023,6,junio,2,25,21,miércoles,False,2023-06,False,Invierno seco
+2023-06-22,2023,6,junio,2,25,22,jueves,False,2023-06,False,Invierno seco
+2023-06-23,2023,6,junio,2,25,23,viernes,False,2023-06,False,Invierno seco
+2023-06-24,2023,6,junio,2,25,24,sábado,True,2023-06,False,Invierno seco
+2023-06-25,2023,6,junio,2,25,25,domingo,True,2023-06,False,Invierno seco
+2023-06-26,2023,6,junio,2,26,26,lunes,False,2023-06,False,Invierno seco
+2023-06-27,2023,6,junio,2,26,27,martes,False,2023-06,False,Invierno seco
+2023-06-28,2023,6,junio,2,26,28,miércoles,False,2023-06,False,Invierno seco
+2023-06-29,2023,6,junio,2,26,29,jueves,False,2023-06,True,Invierno seco
+2023-06-30,2023,6,junio,2,26,30,viernes,False,2023-06,False,Invierno seco
+2023-07-01,2023,7,julio,3,26,1,sábado,True,2023-07,False,Invierno seco
+2023-07-02,2023,7,julio,3,26,2,domingo,True,2023-07,False,Invierno seco
+2023-07-03,2023,7,julio,3,27,3,lunes,False,2023-07,False,Invierno seco
+2023-07-04,2023,7,julio,3,27,4,martes,False,2023-07,False,Invierno seco
+2023-07-05,2023,7,julio,3,27,5,miércoles,False,2023-07,False,Invierno seco
+2023-07-06,2023,7,julio,3,27,6,jueves,False,2023-07,False,Invierno seco
+2023-07-07,2023,7,julio,3,27,7,viernes,False,2023-07,False,Invierno seco
+2023-07-08,2023,7,julio,3,27,8,sábado,True,2023-07,False,Invierno seco
+2023-07-09,2023,7,julio,3,27,9,domingo,True,2023-07,False,Invierno seco
+2023-07-10,2023,7,julio,3,28,10,lunes,False,2023-07,False,Invierno seco
+2023-07-11,2023,7,julio,3,28,11,martes,False,2023-07,False,Invierno seco
+2023-07-12,2023,7,julio,3,28,12,miércoles,False,2023-07,False,Invierno seco
+2023-07-13,2023,7,julio,3,28,13,jueves,False,2023-07,False,Invierno seco
+2023-07-14,2023,7,julio,3,28,14,viernes,False,2023-07,False,Invierno seco
+2023-07-15,2023,7,julio,3,28,15,sábado,True,2023-07,False,Invierno seco
+2023-07-16,2023,7,julio,3,28,16,domingo,True,2023-07,False,Invierno seco
+2023-07-17,2023,7,julio,3,29,17,lunes,False,2023-07,False,Invierno seco
+2023-07-18,2023,7,julio,3,29,18,martes,False,2023-07,False,Invierno seco
+2023-07-19,2023,7,julio,3,29,19,miércoles,False,2023-07,False,Invierno seco
+2023-07-20,2023,7,julio,3,29,20,jueves,False,2023-07,False,Invierno seco
+2023-07-21,2023,7,julio,3,29,21,viernes,False,2023-07,False,Invierno seco
+2023-07-22,2023,7,julio,3,29,22,sábado,True,2023-07,False,Invierno seco
+2023-07-23,2023,7,julio,3,29,23,domingo,True,2023-07,False,Invierno seco
+2023-07-24,2023,7,julio,3,30,24,lunes,False,2023-07,False,Invierno seco
+2023-07-25,2023,7,julio,3,30,25,martes,False,2023-07,False,Invierno seco
+2023-07-26,2023,7,julio,3,30,26,miércoles,False,2023-07,False,Invierno seco
+2023-07-27,2023,7,julio,3,30,27,jueves,False,2023-07,False,Invierno seco
+2023-07-28,2023,7,julio,3,30,28,viernes,False,2023-07,True,Invierno seco
+2023-07-29,2023,7,julio,3,30,29,sábado,True,2023-07,True,Invierno seco
+2023-07-30,2023,7,julio,3,30,30,domingo,True,2023-07,False,Invierno seco
+2023-07-31,2023,7,julio,3,31,31,lunes,False,2023-07,False,Invierno seco
+2023-08-01,2023,8,agosto,3,31,1,martes,False,2023-08,False,Invierno seco
+2023-08-02,2023,8,agosto,3,31,2,miércoles,False,2023-08,False,Invierno seco
+2023-08-03,2023,8,agosto,3,31,3,jueves,False,2023-08,False,Invierno seco
+2023-08-04,2023,8,agosto,3,31,4,viernes,False,2023-08,False,Invierno seco
+2023-08-05,2023,8,agosto,3,31,5,sábado,True,2023-08,False,Invierno seco
+2023-08-06,2023,8,agosto,3,31,6,domingo,True,2023-08,False,Invierno seco
+2023-08-07,2023,8,agosto,3,32,7,lunes,False,2023-08,False,Invierno seco
+2023-08-08,2023,8,agosto,3,32,8,martes,False,2023-08,False,Invierno seco
+2023-08-09,2023,8,agosto,3,32,9,miércoles,False,2023-08,False,Invierno seco
+2023-08-10,2023,8,agosto,3,32,10,jueves,False,2023-08,False,Invierno seco
+2023-08-11,2023,8,agosto,3,32,11,viernes,False,2023-08,False,Invierno seco
+2023-08-12,2023,8,agosto,3,32,12,sábado,True,2023-08,False,Invierno seco
+2023-08-13,2023,8,agosto,3,32,13,domingo,True,2023-08,False,Invierno seco
+2023-08-14,2023,8,agosto,3,33,14,lunes,False,2023-08,False,Invierno seco
+2023-08-15,2023,8,agosto,3,33,15,martes,False,2023-08,False,Invierno seco
+2023-08-16,2023,8,agosto,3,33,16,miércoles,False,2023-08,False,Invierno seco
+2023-08-17,2023,8,agosto,3,33,17,jueves,False,2023-08,False,Invierno seco
+2023-08-18,2023,8,agosto,3,33,18,viernes,False,2023-08,False,Invierno seco
+2023-08-19,2023,8,agosto,3,33,19,sábado,True,2023-08,False,Invierno seco
+2023-08-20,2023,8,agosto,3,33,20,domingo,True,2023-08,False,Invierno seco
+2023-08-21,2023,8,agosto,3,34,21,lunes,False,2023-08,False,Invierno seco
+2023-08-22,2023,8,agosto,3,34,22,martes,False,2023-08,False,Invierno seco
+2023-08-23,2023,8,agosto,3,34,23,miércoles,False,2023-08,False,Invierno seco
+2023-08-24,2023,8,agosto,3,34,24,jueves,False,2023-08,False,Invierno seco
+2023-08-25,2023,8,agosto,3,34,25,viernes,False,2023-08,False,Invierno seco
+2023-08-26,2023,8,agosto,3,34,26,sábado,True,2023-08,False,Invierno seco
+2023-08-27,2023,8,agosto,3,34,27,domingo,True,2023-08,False,Invierno seco
+2023-08-28,2023,8,agosto,3,35,28,lunes,False,2023-08,False,Invierno seco
+2023-08-29,2023,8,agosto,3,35,29,martes,False,2023-08,False,Invierno seco
+2023-08-30,2023,8,agosto,3,35,30,miércoles,False,2023-08,True,Invierno seco
+2023-08-31,2023,8,agosto,3,35,31,jueves,False,2023-08,False,Invierno seco
+2023-09-01,2023,9,setiembre,3,35,1,viernes,False,2023-09,False,Primavera
+2023-09-02,2023,9,setiembre,3,35,2,sábado,True,2023-09,False,Primavera
+2023-09-03,2023,9,setiembre,3,35,3,domingo,True,2023-09,False,Primavera
+2023-09-04,2023,9,setiembre,3,36,4,lunes,False,2023-09,False,Primavera
+2023-09-05,2023,9,setiembre,3,36,5,martes,False,2023-09,False,Primavera
+2023-09-06,2023,9,setiembre,3,36,6,miércoles,False,2023-09,False,Primavera
+2023-09-07,2023,9,setiembre,3,36,7,jueves,False,2023-09,False,Primavera
+2023-09-08,2023,9,setiembre,3,36,8,viernes,False,2023-09,False,Primavera
+2023-09-09,2023,9,setiembre,3,36,9,sábado,True,2023-09,False,Primavera
+2023-09-10,2023,9,setiembre,3,36,10,domingo,True,2023-09,False,Primavera
+2023-09-11,2023,9,setiembre,3,37,11,lunes,False,2023-09,False,Primavera
+2023-09-12,2023,9,setiembre,3,37,12,martes,False,2023-09,False,Primavera
+2023-09-13,2023,9,setiembre,3,37,13,miércoles,False,2023-09,False,Primavera
+2023-09-14,2023,9,setiembre,3,37,14,jueves,False,2023-09,False,Primavera
+2023-09-15,2023,9,setiembre,3,37,15,viernes,False,2023-09,False,Primavera
+2023-09-16,2023,9,setiembre,3,37,16,sábado,True,2023-09,False,Primavera
+2023-09-17,2023,9,setiembre,3,37,17,domingo,True,2023-09,False,Primavera
+2023-09-18,2023,9,setiembre,3,38,18,lunes,False,2023-09,False,Primavera
+2023-09-19,2023,9,setiembre,3,38,19,martes,False,2023-09,False,Primavera
+2023-09-20,2023,9,setiembre,3,38,20,miércoles,False,2023-09,False,Primavera
+2023-09-21,2023,9,setiembre,3,38,21,jueves,False,2023-09,False,Primavera
+2023-09-22,2023,9,setiembre,3,38,22,viernes,False,2023-09,False,Primavera
+2023-09-23,2023,9,setiembre,3,38,23,sábado,True,2023-09,False,Primavera
+2023-09-24,2023,9,setiembre,3,38,24,domingo,True,2023-09,False,Primavera
+2023-09-25,2023,9,setiembre,3,39,25,lunes,False,2023-09,False,Primavera
+2023-09-26,2023,9,setiembre,3,39,26,martes,False,2023-09,False,Primavera
+2023-09-27,2023,9,setiembre,3,39,27,miércoles,False,2023-09,False,Primavera
+2023-09-28,2023,9,setiembre,3,39,28,jueves,False,2023-09,False,Primavera
+2023-09-29,2023,9,setiembre,3,39,29,viernes,False,2023-09,False,Primavera
+2023-09-30,2023,9,setiembre,3,39,30,sábado,True,2023-09,False,Primavera
+2023-10-01,2023,10,octubre,4,39,1,domingo,True,2023-10,False,Primavera
+2023-10-02,2023,10,octubre,4,40,2,lunes,False,2023-10,False,Primavera
+2023-10-03,2023,10,octubre,4,40,3,martes,False,2023-10,False,Primavera
+2023-10-04,2023,10,octubre,4,40,4,miércoles,False,2023-10,False,Primavera
+2023-10-05,2023,10,octubre,4,40,5,jueves,False,2023-10,False,Primavera
+2023-10-06,2023,10,octubre,4,40,6,viernes,False,2023-10,False,Primavera
+2023-10-07,2023,10,octubre,4,40,7,sábado,True,2023-10,False,Primavera
+2023-10-08,2023,10,octubre,4,40,8,domingo,True,2023-10,True,Primavera
+2023-10-09,2023,10,octubre,4,41,9,lunes,False,2023-10,False,Primavera
+2023-10-10,2023,10,octubre,4,41,10,martes,False,2023-10,False,Primavera
+2023-10-11,2023,10,octubre,4,41,11,miércoles,False,2023-10,False,Primavera
+2023-10-12,2023,10,octubre,4,41,12,jueves,False,2023-10,False,Primavera
+2023-10-13,2023,10,octubre,4,41,13,viernes,False,2023-10,False,Primavera
+2023-10-14,2023,10,octubre,4,41,14,sábado,True,2023-10,False,Primavera
+2023-10-15,2023,10,octubre,4,41,15,domingo,True,2023-10,False,Primavera
+2023-10-16,2023,10,octubre,4,42,16,lunes,False,2023-10,False,Primavera
+2023-10-17,2023,10,octubre,4,42,17,martes,False,2023-10,False,Primavera
+2023-10-18,2023,10,octubre,4,42,18,miércoles,False,2023-10,False,Primavera
+2023-10-19,2023,10,octubre,4,42,19,jueves,False,2023-10,False,Primavera
+2023-10-20,2023,10,octubre,4,42,20,viernes,False,2023-10,False,Primavera
+2023-10-21,2023,10,octubre,4,42,21,sábado,True,2023-10,False,Primavera
+2023-10-22,2023,10,octubre,4,42,22,domingo,True,2023-10,False,Primavera
+2023-10-23,2023,10,octubre,4,43,23,lunes,False,2023-10,False,Primavera
+2023-10-24,2023,10,octubre,4,43,24,martes,False,2023-10,False,Primavera
+2023-10-25,2023,10,octubre,4,43,25,miércoles,False,2023-10,False,Primavera
+2023-10-26,2023,10,octubre,4,43,26,jueves,False,2023-10,False,Primavera
+2023-10-27,2023,10,octubre,4,43,27,viernes,False,2023-10,False,Primavera
+2023-10-28,2023,10,octubre,4,43,28,sábado,True,2023-10,False,Primavera
+2023-10-29,2023,10,octubre,4,43,29,domingo,True,2023-10,False,Primavera
+2023-10-30,2023,10,octubre,4,44,30,lunes,False,2023-10,False,Primavera
+2023-10-31,2023,10,octubre,4,44,31,martes,False,2023-10,False,Primavera
+2023-11-01,2023,11,noviembre,4,44,1,miércoles,False,2023-11,True,Primavera
+2023-11-02,2023,11,noviembre,4,44,2,jueves,False,2023-11,False,Primavera
+2023-11-03,2023,11,noviembre,4,44,3,viernes,False,2023-11,False,Primavera
+2023-11-04,2023,11,noviembre,4,44,4,sábado,True,2023-11,False,Primavera
+2023-11-05,2023,11,noviembre,4,44,5,domingo,True,2023-11,False,Primavera
+2023-11-06,2023,11,noviembre,4,45,6,lunes,False,2023-11,False,Primavera
+2023-11-07,2023,11,noviembre,4,45,7,martes,False,2023-11,False,Primavera
+2023-11-08,2023,11,noviembre,4,45,8,miércoles,False,2023-11,False,Primavera
+2023-11-09,2023,11,noviembre,4,45,9,jueves,False,2023-11,False,Primavera
+2023-11-10,2023,11,noviembre,4,45,10,viernes,False,2023-11,False,Primavera
+2023-11-11,2023,11,noviembre,4,45,11,sábado,True,2023-11,False,Primavera
+2023-11-12,2023,11,noviembre,4,45,12,domingo,True,2023-11,False,Primavera
+2023-11-13,2023,11,noviembre,4,46,13,lunes,False,2023-11,False,Primavera
+2023-11-14,2023,11,noviembre,4,46,14,martes,False,2023-11,False,Primavera
+2023-11-15,2023,11,noviembre,4,46,15,miércoles,False,2023-11,False,Primavera
+2023-11-16,2023,11,noviembre,4,46,16,jueves,False,2023-11,False,Primavera
+2023-11-17,2023,11,noviembre,4,46,17,viernes,False,2023-11,False,Primavera
+2023-11-18,2023,11,noviembre,4,46,18,sábado,True,2023-11,False,Primavera
+2023-11-19,2023,11,noviembre,4,46,19,domingo,True,2023-11,False,Primavera
+2023-11-20,2023,11,noviembre,4,47,20,lunes,False,2023-11,False,Primavera
+2023-11-21,2023,11,noviembre,4,47,21,martes,False,2023-11,False,Primavera
+2023-11-22,2023,11,noviembre,4,47,22,miércoles,False,2023-11,False,Primavera
+2023-11-23,2023,11,noviembre,4,47,23,jueves,False,2023-11,False,Primavera
+2023-11-24,2023,11,noviembre,4,47,24,viernes,False,2023-11,False,Primavera
+2023-11-25,2023,11,noviembre,4,47,25,sábado,True,2023-11,False,Primavera
+2023-11-26,2023,11,noviembre,4,47,26,domingo,True,2023-11,False,Primavera
+2023-11-27,2023,11,noviembre,4,48,27,lunes,False,2023-11,False,Primavera
+2023-11-28,2023,11,noviembre,4,48,28,martes,False,2023-11,False,Primavera
+2023-11-29,2023,11,noviembre,4,48,29,miércoles,False,2023-11,False,Primavera
+2023-11-30,2023,11,noviembre,4,48,30,jueves,False,2023-11,False,Primavera
+2023-12-01,2023,12,diciembre,4,48,1,viernes,False,2023-12,False,Lluvias
+2023-12-02,2023,12,diciembre,4,48,2,sábado,True,2023-12,False,Lluvias
+2023-12-03,2023,12,diciembre,4,48,3,domingo,True,2023-12,False,Lluvias
+2023-12-04,2023,12,diciembre,4,49,4,lunes,False,2023-12,False,Lluvias
+2023-12-05,2023,12,diciembre,4,49,5,martes,False,2023-12,False,Lluvias
+2023-12-06,2023,12,diciembre,4,49,6,miércoles,False,2023-12,False,Lluvias
+2023-12-07,2023,12,diciembre,4,49,7,jueves,False,2023-12,False,Lluvias
+2023-12-08,2023,12,diciembre,4,49,8,viernes,False,2023-12,True,Lluvias
+2023-12-09,2023,12,diciembre,4,49,9,sábado,True,2023-12,False,Lluvias
+2023-12-10,2023,12,diciembre,4,49,10,domingo,True,2023-12,False,Lluvias
+2023-12-11,2023,12,diciembre,4,50,11,lunes,False,2023-12,False,Lluvias
+2023-12-12,2023,12,diciembre,4,50,12,martes,False,2023-12,False,Lluvias
+2023-12-13,2023,12,diciembre,4,50,13,miércoles,False,2023-12,False,Lluvias
+2023-12-14,2023,12,diciembre,4,50,14,jueves,False,2023-12,False,Lluvias
+2023-12-15,2023,12,diciembre,4,50,15,viernes,False,2023-12,False,Lluvias
+2023-12-16,2023,12,diciembre,4,50,16,sábado,True,2023-12,False,Lluvias
+2023-12-17,2023,12,diciembre,4,50,17,domingo,True,2023-12,False,Lluvias
+2023-12-18,2023,12,diciembre,4,51,18,lunes,False,2023-12,False,Lluvias
+2023-12-19,2023,12,diciembre,4,51,19,martes,False,2023-12,False,Lluvias
+2023-12-20,2023,12,diciembre,4,51,20,miércoles,False,2023-12,False,Lluvias
+2023-12-21,2023,12,diciembre,4,51,21,jueves,False,2023-12,False,Lluvias
+2023-12-22,2023,12,diciembre,4,51,22,viernes,False,2023-12,False,Lluvias
+2023-12-23,2023,12,diciembre,4,51,23,sábado,True,2023-12,False,Lluvias
+2023-12-24,2023,12,diciembre,4,51,24,domingo,True,2023-12,False,Lluvias
+2023-12-25,2023,12,diciembre,4,52,25,lunes,False,2023-12,True,Lluvias
+2023-12-26,2023,12,diciembre,4,52,26,martes,False,2023-12,False,Lluvias
+2023-12-27,2023,12,diciembre,4,52,27,miércoles,False,2023-12,False,Lluvias
+2023-12-28,2023,12,diciembre,4,52,28,jueves,False,2023-12,False,Lluvias
+2023-12-29,2023,12,diciembre,4,52,29,viernes,False,2023-12,False,Lluvias
+2023-12-30,2023,12,diciembre,4,52,30,sábado,True,2023-12,False,Lluvias
+2023-12-31,2023,12,diciembre,4,52,31,domingo,True,2023-12,False,Lluvias
+2024-01-01,2024,1,enero,1,1,1,lunes,False,2024-01,True,Lluvias
+2024-01-02,2024,1,enero,1,1,2,martes,False,2024-01,False,Lluvias
+2024-01-03,2024,1,enero,1,1,3,miércoles,False,2024-01,False,Lluvias
+2024-01-04,2024,1,enero,1,1,4,jueves,False,2024-01,False,Lluvias
+2024-01-05,2024,1,enero,1,1,5,viernes,False,2024-01,False,Lluvias
+2024-01-06,2024,1,enero,1,1,6,sábado,True,2024-01,False,Lluvias
+2024-01-07,2024,1,enero,1,1,7,domingo,True,2024-01,False,Lluvias
+2024-01-08,2024,1,enero,1,2,8,lunes,False,2024-01,False,Lluvias
+2024-01-09,2024,1,enero,1,2,9,martes,False,2024-01,False,Lluvias
+2024-01-10,2024,1,enero,1,2,10,miércoles,False,2024-01,False,Lluvias
+2024-01-11,2024,1,enero,1,2,11,jueves,False,2024-01,False,Lluvias
+2024-01-12,2024,1,enero,1,2,12,viernes,False,2024-01,False,Lluvias
+2024-01-13,2024,1,enero,1,2,13,sábado,True,2024-01,False,Lluvias
+2024-01-14,2024,1,enero,1,2,14,domingo,True,2024-01,False,Lluvias
+2024-01-15,2024,1,enero,1,3,15,lunes,False,2024-01,False,Lluvias
+2024-01-16,2024,1,enero,1,3,16,martes,False,2024-01,False,Lluvias
+2024-01-17,2024,1,enero,1,3,17,miércoles,False,2024-01,False,Lluvias
+2024-01-18,2024,1,enero,1,3,18,jueves,False,2024-01,False,Lluvias
+2024-01-19,2024,1,enero,1,3,19,viernes,False,2024-01,False,Lluvias
+2024-01-20,2024,1,enero,1,3,20,sábado,True,2024-01,False,Lluvias
+2024-01-21,2024,1,enero,1,3,21,domingo,True,2024-01,False,Lluvias
+2024-01-22,2024,1,enero,1,4,22,lunes,False,2024-01,False,Lluvias
+2024-01-23,2024,1,enero,1,4,23,martes,False,2024-01,False,Lluvias
+2024-01-24,2024,1,enero,1,4,24,miércoles,False,2024-01,False,Lluvias
+2024-01-25,2024,1,enero,1,4,25,jueves,False,2024-01,False,Lluvias
+2024-01-26,2024,1,enero,1,4,26,viernes,False,2024-01,False,Lluvias
+2024-01-27,2024,1,enero,1,4,27,sábado,True,2024-01,False,Lluvias
+2024-01-28,2024,1,enero,1,4,28,domingo,True,2024-01,False,Lluvias
+2024-01-29,2024,1,enero,1,5,29,lunes,False,2024-01,False,Lluvias
+2024-01-30,2024,1,enero,1,5,30,martes,False,2024-01,False,Lluvias
+2024-01-31,2024,1,enero,1,5,31,miércoles,False,2024-01,False,Lluvias
+2024-02-01,2024,2,febrero,1,5,1,jueves,False,2024-02,False,Lluvias
+2024-02-02,2024,2,febrero,1,5,2,viernes,False,2024-02,False,Lluvias
+2024-02-03,2024,2,febrero,1,5,3,sábado,True,2024-02,False,Lluvias
+2024-02-04,2024,2,febrero,1,5,4,domingo,True,2024-02,False,Lluvias
+2024-02-05,2024,2,febrero,1,6,5,lunes,False,2024-02,False,Lluvias
+2024-02-06,2024,2,febrero,1,6,6,martes,False,2024-02,False,Lluvias
+2024-02-07,2024,2,febrero,1,6,7,miércoles,False,2024-02,False,Lluvias
+2024-02-08,2024,2,febrero,1,6,8,jueves,False,2024-02,False,Lluvias
+2024-02-09,2024,2,febrero,1,6,9,viernes,False,2024-02,False,Lluvias
+2024-02-10,2024,2,febrero,1,6,10,sábado,True,2024-02,False,Lluvias
+2024-02-11,2024,2,febrero,1,6,11,domingo,True,2024-02,False,Lluvias
+2024-02-12,2024,2,febrero,1,7,12,lunes,False,2024-02,False,Lluvias
+2024-02-13,2024,2,febrero,1,7,13,martes,False,2024-02,False,Lluvias
+2024-02-14,2024,2,febrero,1,7,14,miércoles,False,2024-02,False,Lluvias
+2024-02-15,2024,2,febrero,1,7,15,jueves,False,2024-02,False,Lluvias
+2024-02-16,2024,2,febrero,1,7,16,viernes,False,2024-02,False,Lluvias
+2024-02-17,2024,2,febrero,1,7,17,sábado,True,2024-02,False,Lluvias
+2024-02-18,2024,2,febrero,1,7,18,domingo,True,2024-02,False,Lluvias
+2024-02-19,2024,2,febrero,1,8,19,lunes,False,2024-02,False,Lluvias
+2024-02-20,2024,2,febrero,1,8,20,martes,False,2024-02,False,Lluvias
+2024-02-21,2024,2,febrero,1,8,21,miércoles,False,2024-02,False,Lluvias
+2024-02-22,2024,2,febrero,1,8,22,jueves,False,2024-02,False,Lluvias
+2024-02-23,2024,2,febrero,1,8,23,viernes,False,2024-02,False,Lluvias
+2024-02-24,2024,2,febrero,1,8,24,sábado,True,2024-02,False,Lluvias
+2024-02-25,2024,2,febrero,1,8,25,domingo,True,2024-02,False,Lluvias
+2024-02-26,2024,2,febrero,1,9,26,lunes,False,2024-02,False,Lluvias
+2024-02-27,2024,2,febrero,1,9,27,martes,False,2024-02,False,Lluvias
+2024-02-28,2024,2,febrero,1,9,28,miércoles,False,2024-02,False,Lluvias
+2024-02-29,2024,2,febrero,1,9,29,jueves,False,2024-02,False,Lluvias
+2024-03-01,2024,3,marzo,1,9,1,viernes,False,2024-03,False,Lluvias
+2024-03-02,2024,3,marzo,1,9,2,sábado,True,2024-03,False,Lluvias
+2024-03-03,2024,3,marzo,1,9,3,domingo,True,2024-03,False,Lluvias
+2024-03-04,2024,3,marzo,1,10,4,lunes,False,2024-03,False,Lluvias
+2024-03-05,2024,3,marzo,1,10,5,martes,False,2024-03,False,Lluvias
+2024-03-06,2024,3,marzo,1,10,6,miércoles,False,2024-03,False,Lluvias
+2024-03-07,2024,3,marzo,1,10,7,jueves,False,2024-03,False,Lluvias
+2024-03-08,2024,3,marzo,1,10,8,viernes,False,2024-03,False,Lluvias
+2024-03-09,2024,3,marzo,1,10,9,sábado,True,2024-03,False,Lluvias
+2024-03-10,2024,3,marzo,1,10,10,domingo,True,2024-03,False,Lluvias
+2024-03-11,2024,3,marzo,1,11,11,lunes,False,2024-03,False,Lluvias
+2024-03-12,2024,3,marzo,1,11,12,martes,False,2024-03,False,Lluvias
+2024-03-13,2024,3,marzo,1,11,13,miércoles,False,2024-03,False,Lluvias
+2024-03-14,2024,3,marzo,1,11,14,jueves,False,2024-03,False,Lluvias
+2024-03-15,2024,3,marzo,1,11,15,viernes,False,2024-03,False,Lluvias
+2024-03-16,2024,3,marzo,1,11,16,sábado,True,2024-03,False,Lluvias
+2024-03-17,2024,3,marzo,1,11,17,domingo,True,2024-03,False,Lluvias
+2024-03-18,2024,3,marzo,1,12,18,lunes,False,2024-03,False,Lluvias
+2024-03-19,2024,3,marzo,1,12,19,martes,False,2024-03,False,Lluvias
+2024-03-20,2024,3,marzo,1,12,20,miércoles,False,2024-03,False,Lluvias
+2024-03-21,2024,3,marzo,1,12,21,jueves,False,2024-03,False,Lluvias
+2024-03-22,2024,3,marzo,1,12,22,viernes,False,2024-03,False,Lluvias
+2024-03-23,2024,3,marzo,1,12,23,sábado,True,2024-03,False,Lluvias
+2024-03-24,2024,3,marzo,1,12,24,domingo,True,2024-03,False,Lluvias
+2024-03-25,2024,3,marzo,1,13,25,lunes,False,2024-03,False,Lluvias
+2024-03-26,2024,3,marzo,1,13,26,martes,False,2024-03,False,Lluvias
+2024-03-27,2024,3,marzo,1,13,27,miércoles,False,2024-03,False,Lluvias
+2024-03-28,2024,3,marzo,1,13,28,jueves,False,2024-03,False,Lluvias
+2024-03-29,2024,3,marzo,1,13,29,viernes,False,2024-03,False,Lluvias
+2024-03-30,2024,3,marzo,1,13,30,sábado,True,2024-03,False,Lluvias
+2024-03-31,2024,3,marzo,1,13,31,domingo,True,2024-03,False,Lluvias
+2024-04-01,2024,4,abril,2,14,1,lunes,False,2024-04,False,Otoño
+2024-04-02,2024,4,abril,2,14,2,martes,False,2024-04,False,Otoño
+2024-04-03,2024,4,abril,2,14,3,miércoles,False,2024-04,False,Otoño
+2024-04-04,2024,4,abril,2,14,4,jueves,False,2024-04,False,Otoño
+2024-04-05,2024,4,abril,2,14,5,viernes,False,2024-04,False,Otoño
+2024-04-06,2024,4,abril,2,14,6,sábado,True,2024-04,False,Otoño
+2024-04-07,2024,4,abril,2,14,7,domingo,True,2024-04,False,Otoño
+2024-04-08,2024,4,abril,2,15,8,lunes,False,2024-04,False,Otoño
+2024-04-09,2024,4,abril,2,15,9,martes,False,2024-04,False,Otoño
+2024-04-10,2024,4,abril,2,15,10,miércoles,False,2024-04,False,Otoño
+2024-04-11,2024,4,abril,2,15,11,jueves,False,2024-04,False,Otoño
+2024-04-12,2024,4,abril,2,15,12,viernes,False,2024-04,False,Otoño
+2024-04-13,2024,4,abril,2,15,13,sábado,True,2024-04,False,Otoño
+2024-04-14,2024,4,abril,2,15,14,domingo,True,2024-04,False,Otoño
+2024-04-15,2024,4,abril,2,16,15,lunes,False,2024-04,False,Otoño
+2024-04-16,2024,4,abril,2,16,16,martes,False,2024-04,False,Otoño
+2024-04-17,2024,4,abril,2,16,17,miércoles,False,2024-04,False,Otoño
+2024-04-18,2024,4,abril,2,16,18,jueves,False,2024-04,False,Otoño
+2024-04-19,2024,4,abril,2,16,19,viernes,False,2024-04,False,Otoño
+2024-04-20,2024,4,abril,2,16,20,sábado,True,2024-04,False,Otoño
+2024-04-21,2024,4,abril,2,16,21,domingo,True,2024-04,False,Otoño
+2024-04-22,2024,4,abril,2,17,22,lunes,False,2024-04,False,Otoño
+2024-04-23,2024,4,abril,2,17,23,martes,False,2024-04,False,Otoño
+2024-04-24,2024,4,abril,2,17,24,miércoles,False,2024-04,False,Otoño
+2024-04-25,2024,4,abril,2,17,25,jueves,False,2024-04,False,Otoño
+2024-04-26,2024,4,abril,2,17,26,viernes,False,2024-04,False,Otoño
+2024-04-27,2024,4,abril,2,17,27,sábado,True,2024-04,False,Otoño
+2024-04-28,2024,4,abril,2,17,28,domingo,True,2024-04,False,Otoño
+2024-04-29,2024,4,abril,2,18,29,lunes,False,2024-04,False,Otoño
+2024-04-30,2024,4,abril,2,18,30,martes,False,2024-04,False,Otoño
+2024-05-01,2024,5,mayo,2,18,1,miércoles,False,2024-05,True,Otoño
+2024-05-02,2024,5,mayo,2,18,2,jueves,False,2024-05,False,Otoño
+2024-05-03,2024,5,mayo,2,18,3,viernes,False,2024-05,False,Otoño
+2024-05-04,2024,5,mayo,2,18,4,sábado,True,2024-05,False,Otoño
+2024-05-05,2024,5,mayo,2,18,5,domingo,True,2024-05,False,Otoño
+2024-05-06,2024,5,mayo,2,19,6,lunes,False,2024-05,False,Otoño
+2024-05-07,2024,5,mayo,2,19,7,martes,False,2024-05,False,Otoño
+2024-05-08,2024,5,mayo,2,19,8,miércoles,False,2024-05,False,Otoño
+2024-05-09,2024,5,mayo,2,19,9,jueves,False,2024-05,False,Otoño
+2024-05-10,2024,5,mayo,2,19,10,viernes,False,2024-05,False,Otoño
+2024-05-11,2024,5,mayo,2,19,11,sábado,True,2024-05,False,Otoño
+2024-05-12,2024,5,mayo,2,19,12,domingo,True,2024-05,False,Otoño
+2024-05-13,2024,5,mayo,2,20,13,lunes,False,2024-05,False,Otoño
+2024-05-14,2024,5,mayo,2,20,14,martes,False,2024-05,False,Otoño
+2024-05-15,2024,5,mayo,2,20,15,miércoles,False,2024-05,False,Otoño
+2024-05-16,2024,5,mayo,2,20,16,jueves,False,2024-05,False,Otoño
+2024-05-17,2024,5,mayo,2,20,17,viernes,False,2024-05,False,Otoño
+2024-05-18,2024,5,mayo,2,20,18,sábado,True,2024-05,False,Otoño
+2024-05-19,2024,5,mayo,2,20,19,domingo,True,2024-05,False,Otoño
+2024-05-20,2024,5,mayo,2,21,20,lunes,False,2024-05,False,Otoño
+2024-05-21,2024,5,mayo,2,21,21,martes,False,2024-05,False,Otoño
+2024-05-22,2024,5,mayo,2,21,22,miércoles,False,2024-05,False,Otoño
+2024-05-23,2024,5,mayo,2,21,23,jueves,False,2024-05,False,Otoño
+2024-05-24,2024,5,mayo,2,21,24,viernes,False,2024-05,False,Otoño
+2024-05-25,2024,5,mayo,2,21,25,sábado,True,2024-05,False,Otoño
+2024-05-26,2024,5,mayo,2,21,26,domingo,True,2024-05,False,Otoño
+2024-05-27,2024,5,mayo,2,22,27,lunes,False,2024-05,False,Otoño
+2024-05-28,2024,5,mayo,2,22,28,martes,False,2024-05,False,Otoño
+2024-05-29,2024,5,mayo,2,22,29,miércoles,False,2024-05,False,Otoño
+2024-05-30,2024,5,mayo,2,22,30,jueves,False,2024-05,False,Otoño
+2024-05-31,2024,5,mayo,2,22,31,viernes,False,2024-05,False,Otoño
+2024-06-01,2024,6,junio,2,22,1,sábado,True,2024-06,False,Invierno seco
+2024-06-02,2024,6,junio,2,22,2,domingo,True,2024-06,False,Invierno seco
+2024-06-03,2024,6,junio,2,23,3,lunes,False,2024-06,False,Invierno seco
+2024-06-04,2024,6,junio,2,23,4,martes,False,2024-06,False,Invierno seco
+2024-06-05,2024,6,junio,2,23,5,miércoles,False,2024-06,False,Invierno seco
+2024-06-06,2024,6,junio,2,23,6,jueves,False,2024-06,False,Invierno seco
+2024-06-07,2024,6,junio,2,23,7,viernes,False,2024-06,False,Invierno seco
+2024-06-08,2024,6,junio,2,23,8,sábado,True,2024-06,False,Invierno seco
+2024-06-09,2024,6,junio,2,23,9,domingo,True,2024-06,False,Invierno seco
+2024-06-10,2024,6,junio,2,24,10,lunes,False,2024-06,False,Invierno seco
+2024-06-11,2024,6,junio,2,24,11,martes,False,2024-06,False,Invierno seco
+2024-06-12,2024,6,junio,2,24,12,miércoles,False,2024-06,False,Invierno seco
+2024-06-13,2024,6,junio,2,24,13,jueves,False,2024-06,False,Invierno seco
+2024-06-14,2024,6,junio,2,24,14,viernes,False,2024-06,False,Invierno seco
+2024-06-15,2024,6,junio,2,24,15,sábado,True,2024-06,False,Invierno seco
+2024-06-16,2024,6,junio,2,24,16,domingo,True,2024-06,False,Invierno seco
+2024-06-17,2024,6,junio,2,25,17,lunes,False,2024-06,False,Invierno seco
+2024-06-18,2024,6,junio,2,25,18,martes,False,2024-06,False,Invierno seco
+2024-06-19,2024,6,junio,2,25,19,miércoles,False,2024-06,False,Invierno seco
+2024-06-20,2024,6,junio,2,25,20,jueves,False,2024-06,False,Invierno seco
+2024-06-21,2024,6,junio,2,25,21,viernes,False,2024-06,False,Invierno seco
+2024-06-22,2024,6,junio,2,25,22,sábado,True,2024-06,False,Invierno seco
+2024-06-23,2024,6,junio,2,25,23,domingo,True,2024-06,False,Invierno seco
+2024-06-24,2024,6,junio,2,26,24,lunes,False,2024-06,False,Invierno seco
+2024-06-25,2024,6,junio,2,26,25,martes,False,2024-06,False,Invierno seco
+2024-06-26,2024,6,junio,2,26,26,miércoles,False,2024-06,False,Invierno seco
+2024-06-27,2024,6,junio,2,26,27,jueves,False,2024-06,False,Invierno seco
+2024-06-28,2024,6,junio,2,26,28,viernes,False,2024-06,False,Invierno seco
+2024-06-29,2024,6,junio,2,26,29,sábado,True,2024-06,True,Invierno seco
+2024-06-30,2024,6,junio,2,26,30,domingo,True,2024-06,False,Invierno seco
+2024-07-01,2024,7,julio,3,27,1,lunes,False,2024-07,False,Invierno seco
+2024-07-02,2024,7,julio,3,27,2,martes,False,2024-07,False,Invierno seco
+2024-07-03,2024,7,julio,3,27,3,miércoles,False,2024-07,False,Invierno seco
+2024-07-04,2024,7,julio,3,27,4,jueves,False,2024-07,False,Invierno seco
+2024-07-05,2024,7,julio,3,27,5,viernes,False,2024-07,False,Invierno seco
+2024-07-06,2024,7,julio,3,27,6,sábado,True,2024-07,False,Invierno seco
+2024-07-07,2024,7,julio,3,27,7,domingo,True,2024-07,False,Invierno seco
+2024-07-08,2024,7,julio,3,28,8,lunes,False,2024-07,False,Invierno seco
+2024-07-09,2024,7,julio,3,28,9,martes,False,2024-07,False,Invierno seco
+2024-07-10,2024,7,julio,3,28,10,miércoles,False,2024-07,False,Invierno seco
+2024-07-11,2024,7,julio,3,28,11,jueves,False,2024-07,False,Invierno seco
+2024-07-12,2024,7,julio,3,28,12,viernes,False,2024-07,False,Invierno seco
+2024-07-13,2024,7,julio,3,28,13,sábado,True,2024-07,False,Invierno seco
+2024-07-14,2024,7,julio,3,28,14,domingo,True,2024-07,False,Invierno seco
+2024-07-15,2024,7,julio,3,29,15,lunes,False,2024-07,False,Invierno seco
+2024-07-16,2024,7,julio,3,29,16,martes,False,2024-07,False,Invierno seco
+2024-07-17,2024,7,julio,3,29,17,miércoles,False,2024-07,False,Invierno seco
+2024-07-18,2024,7,julio,3,29,18,jueves,False,2024-07,False,Invierno seco
+2024-07-19,2024,7,julio,3,29,19,viernes,False,2024-07,False,Invierno seco
+2024-07-20,2024,7,julio,3,29,20,sábado,True,2024-07,False,Invierno seco
+2024-07-21,2024,7,julio,3,29,21,domingo,True,2024-07,False,Invierno seco
+2024-07-22,2024,7,julio,3,30,22,lunes,False,2024-07,False,Invierno seco
+2024-07-23,2024,7,julio,3,30,23,martes,False,2024-07,False,Invierno seco
+2024-07-24,2024,7,julio,3,30,24,miércoles,False,2024-07,False,Invierno seco
+2024-07-25,2024,7,julio,3,30,25,jueves,False,2024-07,False,Invierno seco
+2024-07-26,2024,7,julio,3,30,26,viernes,False,2024-07,False,Invierno seco
+2024-07-27,2024,7,julio,3,30,27,sábado,True,2024-07,False,Invierno seco
+2024-07-28,2024,7,julio,3,30,28,domingo,True,2024-07,True,Invierno seco
+2024-07-29,2024,7,julio,3,31,29,lunes,False,2024-07,True,Invierno seco
+2024-07-30,2024,7,julio,3,31,30,martes,False,2024-07,False,Invierno seco
+2024-07-31,2024,7,julio,3,31,31,miércoles,False,2024-07,False,Invierno seco
+2024-08-01,2024,8,agosto,3,31,1,jueves,False,2024-08,False,Invierno seco
+2024-08-02,2024,8,agosto,3,31,2,viernes,False,2024-08,False,Invierno seco
+2024-08-03,2024,8,agosto,3,31,3,sábado,True,2024-08,False,Invierno seco
+2024-08-04,2024,8,agosto,3,31,4,domingo,True,2024-08,False,Invierno seco
+2024-08-05,2024,8,agosto,3,32,5,lunes,False,2024-08,False,Invierno seco
+2024-08-06,2024,8,agosto,3,32,6,martes,False,2024-08,False,Invierno seco
+2024-08-07,2024,8,agosto,3,32,7,miércoles,False,2024-08,False,Invierno seco
+2024-08-08,2024,8,agosto,3,32,8,jueves,False,2024-08,False,Invierno seco
+2024-08-09,2024,8,agosto,3,32,9,viernes,False,2024-08,False,Invierno seco
+2024-08-10,2024,8,agosto,3,32,10,sábado,True,2024-08,False,Invierno seco
+2024-08-11,2024,8,agosto,3,32,11,domingo,True,2024-08,False,Invierno seco
+2024-08-12,2024,8,agosto,3,33,12,lunes,False,2024-08,False,Invierno seco
+2024-08-13,2024,8,agosto,3,33,13,martes,False,2024-08,False,Invierno seco
+2024-08-14,2024,8,agosto,3,33,14,miércoles,False,2024-08,False,Invierno seco
+2024-08-15,2024,8,agosto,3,33,15,jueves,False,2024-08,False,Invierno seco
+2024-08-16,2024,8,agosto,3,33,16,viernes,False,2024-08,False,Invierno seco
+2024-08-17,2024,8,agosto,3,33,17,sábado,True,2024-08,False,Invierno seco
+2024-08-18,2024,8,agosto,3,33,18,domingo,True,2024-08,False,Invierno seco
+2024-08-19,2024,8,agosto,3,34,19,lunes,False,2024-08,False,Invierno seco
+2024-08-20,2024,8,agosto,3,34,20,martes,False,2024-08,False,Invierno seco
+2024-08-21,2024,8,agosto,3,34,21,miércoles,False,2024-08,False,Invierno seco
+2024-08-22,2024,8,agosto,3,34,22,jueves,False,2024-08,False,Invierno seco
+2024-08-23,2024,8,agosto,3,34,23,viernes,False,2024-08,False,Invierno seco
+2024-08-24,2024,8,agosto,3,34,24,sábado,True,2024-08,False,Invierno seco
+2024-08-25,2024,8,agosto,3,34,25,domingo,True,2024-08,False,Invierno seco
+2024-08-26,2024,8,agosto,3,35,26,lunes,False,2024-08,False,Invierno seco
+2024-08-27,2024,8,agosto,3,35,27,martes,False,2024-08,False,Invierno seco
+2024-08-28,2024,8,agosto,3,35,28,miércoles,False,2024-08,False,Invierno seco
+2024-08-29,2024,8,agosto,3,35,29,jueves,False,2024-08,False,Invierno seco
+2024-08-30,2024,8,agosto,3,35,30,viernes,False,2024-08,True,Invierno seco
+2024-08-31,2024,8,agosto,3,35,31,sábado,True,2024-08,False,Invierno seco
+2024-09-01,2024,9,setiembre,3,35,1,domingo,True,2024-09,False,Primavera
+2024-09-02,2024,9,setiembre,3,36,2,lunes,False,2024-09,False,Primavera
+2024-09-03,2024,9,setiembre,3,36,3,martes,False,2024-09,False,Primavera
+2024-09-04,2024,9,setiembre,3,36,4,miércoles,False,2024-09,False,Primavera
+2024-09-05,2024,9,setiembre,3,36,5,jueves,False,2024-09,False,Primavera
+2024-09-06,2024,9,setiembre,3,36,6,viernes,False,2024-09,False,Primavera
+2024-09-07,2024,9,setiembre,3,36,7,sábado,True,2024-09,False,Primavera
+2024-09-08,2024,9,setiembre,3,36,8,domingo,True,2024-09,False,Primavera
+2024-09-09,2024,9,setiembre,3,37,9,lunes,False,2024-09,False,Primavera
+2024-09-10,2024,9,setiembre,3,37,10,martes,False,2024-09,False,Primavera
+2024-09-11,2024,9,setiembre,3,37,11,miércoles,False,2024-09,False,Primavera
+2024-09-12,2024,9,setiembre,3,37,12,jueves,False,2024-09,False,Primavera
+2024-09-13,2024,9,setiembre,3,37,13,viernes,False,2024-09,False,Primavera
+2024-09-14,2024,9,setiembre,3,37,14,sábado,True,2024-09,False,Primavera
+2024-09-15,2024,9,setiembre,3,37,15,domingo,True,2024-09,False,Primavera
+2024-09-16,2024,9,setiembre,3,38,16,lunes,False,2024-09,False,Primavera
+2024-09-17,2024,9,setiembre,3,38,17,martes,False,2024-09,False,Primavera
+2024-09-18,2024,9,setiembre,3,38,18,miércoles,False,2024-09,False,Primavera
+2024-09-19,2024,9,setiembre,3,38,19,jueves,False,2024-09,False,Primavera
+2024-09-20,2024,9,setiembre,3,38,20,viernes,False,2024-09,False,Primavera
+2024-09-21,2024,9,setiembre,3,38,21,sábado,True,2024-09,False,Primavera
+2024-09-22,2024,9,setiembre,3,38,22,domingo,True,2024-09,False,Primavera
+2024-09-23,2024,9,setiembre,3,39,23,lunes,False,2024-09,False,Primavera
+2024-09-24,2024,9,setiembre,3,39,24,martes,False,2024-09,False,Primavera
+2024-09-25,2024,9,setiembre,3,39,25,miércoles,False,2024-09,False,Primavera
+2024-09-26,2024,9,setiembre,3,39,26,jueves,False,2024-09,False,Primavera
+2024-09-27,2024,9,setiembre,3,39,27,viernes,False,2024-09,False,Primavera
+2024-09-28,2024,9,setiembre,3,39,28,sábado,True,2024-09,False,Primavera
+2024-09-29,2024,9,setiembre,3,39,29,domingo,True,2024-09,False,Primavera
+2024-09-30,2024,9,setiembre,3,40,30,lunes,False,2024-09,False,Primavera
+2024-10-01,2024,10,octubre,4,40,1,martes,False,2024-10,False,Primavera
+2024-10-02,2024,10,octubre,4,40,2,miércoles,False,2024-10,False,Primavera
+2024-10-03,2024,10,octubre,4,40,3,jueves,False,2024-10,False,Primavera
+2024-10-04,2024,10,octubre,4,40,4,viernes,False,2024-10,False,Primavera
+2024-10-05,2024,10,octubre,4,40,5,sábado,True,2024-10,False,Primavera
+2024-10-06,2024,10,octubre,4,40,6,domingo,True,2024-10,False,Primavera
+2024-10-07,2024,10,octubre,4,41,7,lunes,False,2024-10,False,Primavera
+2024-10-08,2024,10,octubre,4,41,8,martes,False,2024-10,True,Primavera
+2024-10-09,2024,10,octubre,4,41,9,miércoles,False,2024-10,False,Primavera
+2024-10-10,2024,10,octubre,4,41,10,jueves,False,2024-10,False,Primavera
+2024-10-11,2024,10,octubre,4,41,11,viernes,False,2024-10,False,Primavera
+2024-10-12,2024,10,octubre,4,41,12,sábado,True,2024-10,False,Primavera
+2024-10-13,2024,10,octubre,4,41,13,domingo,True,2024-10,False,Primavera
+2024-10-14,2024,10,octubre,4,42,14,lunes,False,2024-10,False,Primavera
+2024-10-15,2024,10,octubre,4,42,15,martes,False,2024-10,False,Primavera
+2024-10-16,2024,10,octubre,4,42,16,miércoles,False,2024-10,False,Primavera
+2024-10-17,2024,10,octubre,4,42,17,jueves,False,2024-10,False,Primavera
+2024-10-18,2024,10,octubre,4,42,18,viernes,False,2024-10,False,Primavera
+2024-10-19,2024,10,octubre,4,42,19,sábado,True,2024-10,False,Primavera
+2024-10-20,2024,10,octubre,4,42,20,domingo,True,2024-10,False,Primavera
+2024-10-21,2024,10,octubre,4,43,21,lunes,False,2024-10,False,Primavera
+2024-10-22,2024,10,octubre,4,43,22,martes,False,2024-10,False,Primavera
+2024-10-23,2024,10,octubre,4,43,23,miércoles,False,2024-10,False,Primavera
+2024-10-24,2024,10,octubre,4,43,24,jueves,False,2024-10,False,Primavera
+2024-10-25,2024,10,octubre,4,43,25,viernes,False,2024-10,False,Primavera
+2024-10-26,2024,10,octubre,4,43,26,sábado,True,2024-10,False,Primavera
+2024-10-27,2024,10,octubre,4,43,27,domingo,True,2024-10,False,Primavera
+2024-10-28,2024,10,octubre,4,44,28,lunes,False,2024-10,False,Primavera
+2024-10-29,2024,10,octubre,4,44,29,martes,False,2024-10,False,Primavera
+2024-10-30,2024,10,octubre,4,44,30,miércoles,False,2024-10,False,Primavera
+2024-10-31,2024,10,octubre,4,44,31,jueves,False,2024-10,False,Primavera
+2024-11-01,2024,11,noviembre,4,44,1,viernes,False,2024-11,True,Primavera
+2024-11-02,2024,11,noviembre,4,44,2,sábado,True,2024-11,False,Primavera
+2024-11-03,2024,11,noviembre,4,44,3,domingo,True,2024-11,False,Primavera
+2024-11-04,2024,11,noviembre,4,45,4,lunes,False,2024-11,False,Primavera
+2024-11-05,2024,11,noviembre,4,45,5,martes,False,2024-11,False,Primavera
+2024-11-06,2024,11,noviembre,4,45,6,miércoles,False,2024-11,False,Primavera
+2024-11-07,2024,11,noviembre,4,45,7,jueves,False,2024-11,False,Primavera
+2024-11-08,2024,11,noviembre,4,45,8,viernes,False,2024-11,False,Primavera
+2024-11-09,2024,11,noviembre,4,45,9,sábado,True,2024-11,False,Primavera
+2024-11-10,2024,11,noviembre,4,45,10,domingo,True,2024-11,False,Primavera
+2024-11-11,2024,11,noviembre,4,46,11,lunes,False,2024-11,False,Primavera
+2024-11-12,2024,11,noviembre,4,46,12,martes,False,2024-11,False,Primavera
+2024-11-13,2024,11,noviembre,4,46,13,miércoles,False,2024-11,False,Primavera
+2024-11-14,2024,11,noviembre,4,46,14,jueves,False,2024-11,False,Primavera
+2024-11-15,2024,11,noviembre,4,46,15,viernes,False,2024-11,False,Primavera
+2024-11-16,2024,11,noviembre,4,46,16,sábado,True,2024-11,False,Primavera
+2024-11-17,2024,11,noviembre,4,46,17,domingo,True,2024-11,False,Primavera
+2024-11-18,2024,11,noviembre,4,47,18,lunes,False,2024-11,False,Primavera
+2024-11-19,2024,11,noviembre,4,47,19,martes,False,2024-11,False,Primavera
+2024-11-20,2024,11,noviembre,4,47,20,miércoles,False,2024-11,False,Primavera
+2024-11-21,2024,11,noviembre,4,47,21,jueves,False,2024-11,False,Primavera
+2024-11-22,2024,11,noviembre,4,47,22,viernes,False,2024-11,False,Primavera
+2024-11-23,2024,11,noviembre,4,47,23,sábado,True,2024-11,False,Primavera
+2024-11-24,2024,11,noviembre,4,47,24,domingo,True,2024-11,False,Primavera
+2024-11-25,2024,11,noviembre,4,48,25,lunes,False,2024-11,False,Primavera
+2024-11-26,2024,11,noviembre,4,48,26,martes,False,2024-11,False,Primavera
+2024-11-27,2024,11,noviembre,4,48,27,miércoles,False,2024-11,False,Primavera
+2024-11-28,2024,11,noviembre,4,48,28,jueves,False,2024-11,False,Primavera
+2024-11-29,2024,11,noviembre,4,48,29,viernes,False,2024-11,False,Primavera
+2024-11-30,2024,11,noviembre,4,48,30,sábado,True,2024-11,False,Primavera
+2024-12-01,2024,12,diciembre,4,48,1,domingo,True,2024-12,False,Lluvias
+2024-12-02,2024,12,diciembre,4,49,2,lunes,False,2024-12,False,Lluvias
+2024-12-03,2024,12,diciembre,4,49,3,martes,False,2024-12,False,Lluvias
+2024-12-04,2024,12,diciembre,4,49,4,miércoles,False,2024-12,False,Lluvias
+2024-12-05,2024,12,diciembre,4,49,5,jueves,False,2024-12,False,Lluvias
+2024-12-06,2024,12,diciembre,4,49,6,viernes,False,2024-12,False,Lluvias
+2024-12-07,2024,12,diciembre,4,49,7,sábado,True,2024-12,False,Lluvias
+2024-12-08,2024,12,diciembre,4,49,8,domingo,True,2024-12,True,Lluvias
+2024-12-09,2024,12,diciembre,4,50,9,lunes,False,2024-12,False,Lluvias
+2024-12-10,2024,12,diciembre,4,50,10,martes,False,2024-12,False,Lluvias
+2024-12-11,2024,12,diciembre,4,50,11,miércoles,False,2024-12,False,Lluvias
+2024-12-12,2024,12,diciembre,4,50,12,jueves,False,2024-12,False,Lluvias
+2024-12-13,2024,12,diciembre,4,50,13,viernes,False,2024-12,False,Lluvias
+2024-12-14,2024,12,diciembre,4,50,14,sábado,True,2024-12,False,Lluvias
+2024-12-15,2024,12,diciembre,4,50,15,domingo,True,2024-12,False,Lluvias
+2024-12-16,2024,12,diciembre,4,51,16,lunes,False,2024-12,False,Lluvias
+2024-12-17,2024,12,diciembre,4,51,17,martes,False,2024-12,False,Lluvias
+2024-12-18,2024,12,diciembre,4,51,18,miércoles,False,2024-12,False,Lluvias
+2024-12-19,2024,12,diciembre,4,51,19,jueves,False,2024-12,False,Lluvias
+2024-12-20,2024,12,diciembre,4,51,20,viernes,False,2024-12,False,Lluvias
+2024-12-21,2024,12,diciembre,4,51,21,sábado,True,2024-12,False,Lluvias
+2024-12-22,2024,12,diciembre,4,51,22,domingo,True,2024-12,False,Lluvias
+2024-12-23,2024,12,diciembre,4,52,23,lunes,False,2024-12,False,Lluvias
+2024-12-24,2024,12,diciembre,4,52,24,martes,False,2024-12,False,Lluvias
+2024-12-25,2024,12,diciembre,4,52,25,miércoles,False,2024-12,True,Lluvias
+2024-12-26,2024,12,diciembre,4,52,26,jueves,False,2024-12,False,Lluvias
+2024-12-27,2024,12,diciembre,4,52,27,viernes,False,2024-12,False,Lluvias
+2024-12-28,2024,12,diciembre,4,52,28,sábado,True,2024-12,False,Lluvias
+2024-12-29,2024,12,diciembre,4,52,29,domingo,True,2024-12,False,Lluvias
+2024-12-30,2024,12,diciembre,4,1,30,lunes,False,2024-12,False,Lluvias
+2024-12-31,2024,12,diciembre,4,1,31,martes,False,2024-12,False,Lluvias
+2025-01-01,2025,1,enero,1,1,1,miércoles,False,2025-01,True,Lluvias
+2025-01-02,2025,1,enero,1,1,2,jueves,False,2025-01,False,Lluvias
+2025-01-03,2025,1,enero,1,1,3,viernes,False,2025-01,False,Lluvias
+2025-01-04,2025,1,enero,1,1,4,sábado,True,2025-01,False,Lluvias
+2025-01-05,2025,1,enero,1,1,5,domingo,True,2025-01,False,Lluvias
+2025-01-06,2025,1,enero,1,2,6,lunes,False,2025-01,False,Lluvias
+2025-01-07,2025,1,enero,1,2,7,martes,False,2025-01,False,Lluvias
+2025-01-08,2025,1,enero,1,2,8,miércoles,False,2025-01,False,Lluvias
+2025-01-09,2025,1,enero,1,2,9,jueves,False,2025-01,False,Lluvias
+2025-01-10,2025,1,enero,1,2,10,viernes,False,2025-01,False,Lluvias
+2025-01-11,2025,1,enero,1,2,11,sábado,True,2025-01,False,Lluvias
+2025-01-12,2025,1,enero,1,2,12,domingo,True,2025-01,False,Lluvias
+2025-01-13,2025,1,enero,1,3,13,lunes,False,2025-01,False,Lluvias
+2025-01-14,2025,1,enero,1,3,14,martes,False,2025-01,False,Lluvias
+2025-01-15,2025,1,enero,1,3,15,miércoles,False,2025-01,False,Lluvias
+2025-01-16,2025,1,enero,1,3,16,jueves,False,2025-01,False,Lluvias
+2025-01-17,2025,1,enero,1,3,17,viernes,False,2025-01,False,Lluvias
+2025-01-18,2025,1,enero,1,3,18,sábado,True,2025-01,False,Lluvias
+2025-01-19,2025,1,enero,1,3,19,domingo,True,2025-01,False,Lluvias
+2025-01-20,2025,1,enero,1,4,20,lunes,False,2025-01,False,Lluvias
+2025-01-21,2025,1,enero,1,4,21,martes,False,2025-01,False,Lluvias
+2025-01-22,2025,1,enero,1,4,22,miércoles,False,2025-01,False,Lluvias
+2025-01-23,2025,1,enero,1,4,23,jueves,False,2025-01,False,Lluvias
+2025-01-24,2025,1,enero,1,4,24,viernes,False,2025-01,False,Lluvias
+2025-01-25,2025,1,enero,1,4,25,sábado,True,2025-01,False,Lluvias
+2025-01-26,2025,1,enero,1,4,26,domingo,True,2025-01,False,Lluvias
+2025-01-27,2025,1,enero,1,5,27,lunes,False,2025-01,False,Lluvias
+2025-01-28,2025,1,enero,1,5,28,martes,False,2025-01,False,Lluvias
+2025-01-29,2025,1,enero,1,5,29,miércoles,False,2025-01,False,Lluvias
+2025-01-30,2025,1,enero,1,5,30,jueves,False,2025-01,False,Lluvias
+2025-01-31,2025,1,enero,1,5,31,viernes,False,2025-01,False,Lluvias
+2025-02-01,2025,2,febrero,1,5,1,sábado,True,2025-02,False,Lluvias
+2025-02-02,2025,2,febrero,1,5,2,domingo,True,2025-02,False,Lluvias
+2025-02-03,2025,2,febrero,1,6,3,lunes,False,2025-02,False,Lluvias
+2025-02-04,2025,2,febrero,1,6,4,martes,False,2025-02,False,Lluvias
+2025-02-05,2025,2,febrero,1,6,5,miércoles,False,2025-02,False,Lluvias
+2025-02-06,2025,2,febrero,1,6,6,jueves,False,2025-02,False,Lluvias
+2025-02-07,2025,2,febrero,1,6,7,viernes,False,2025-02,False,Lluvias
+2025-02-08,2025,2,febrero,1,6,8,sábado,True,2025-02,False,Lluvias
+2025-02-09,2025,2,febrero,1,6,9,domingo,True,2025-02,False,Lluvias
+2025-02-10,2025,2,febrero,1,7,10,lunes,False,2025-02,False,Lluvias
+2025-02-11,2025,2,febrero,1,7,11,martes,False,2025-02,False,Lluvias
+2025-02-12,2025,2,febrero,1,7,12,miércoles,False,2025-02,False,Lluvias
+2025-02-13,2025,2,febrero,1,7,13,jueves,False,2025-02,False,Lluvias
+2025-02-14,2025,2,febrero,1,7,14,viernes,False,2025-02,False,Lluvias
+2025-02-15,2025,2,febrero,1,7,15,sábado,True,2025-02,False,Lluvias
+2025-02-16,2025,2,febrero,1,7,16,domingo,True,2025-02,False,Lluvias
+2025-02-17,2025,2,febrero,1,8,17,lunes,False,2025-02,False,Lluvias
+2025-02-18,2025,2,febrero,1,8,18,martes,False,2025-02,False,Lluvias
+2025-02-19,2025,2,febrero,1,8,19,miércoles,False,2025-02,False,Lluvias
+2025-02-20,2025,2,febrero,1,8,20,jueves,False,2025-02,False,Lluvias
+2025-02-21,2025,2,febrero,1,8,21,viernes,False,2025-02,False,Lluvias
+2025-02-22,2025,2,febrero,1,8,22,sábado,True,2025-02,False,Lluvias
+2025-02-23,2025,2,febrero,1,8,23,domingo,True,2025-02,False,Lluvias
+2025-02-24,2025,2,febrero,1,9,24,lunes,False,2025-02,False,Lluvias
+2025-02-25,2025,2,febrero,1,9,25,martes,False,2025-02,False,Lluvias
+2025-02-26,2025,2,febrero,1,9,26,miércoles,False,2025-02,False,Lluvias
+2025-02-27,2025,2,febrero,1,9,27,jueves,False,2025-02,False,Lluvias
+2025-02-28,2025,2,febrero,1,9,28,viernes,False,2025-02,False,Lluvias
+2025-03-01,2025,3,marzo,1,9,1,sábado,True,2025-03,False,Lluvias
+2025-03-02,2025,3,marzo,1,9,2,domingo,True,2025-03,False,Lluvias
+2025-03-03,2025,3,marzo,1,10,3,lunes,False,2025-03,False,Lluvias
+2025-03-04,2025,3,marzo,1,10,4,martes,False,2025-03,False,Lluvias
+2025-03-05,2025,3,marzo,1,10,5,miércoles,False,2025-03,False,Lluvias
+2025-03-06,2025,3,marzo,1,10,6,jueves,False,2025-03,False,Lluvias
+2025-03-07,2025,3,marzo,1,10,7,viernes,False,2025-03,False,Lluvias
+2025-03-08,2025,3,marzo,1,10,8,sábado,True,2025-03,False,Lluvias
+2025-03-09,2025,3,marzo,1,10,9,domingo,True,2025-03,False,Lluvias
+2025-03-10,2025,3,marzo,1,11,10,lunes,False,2025-03,False,Lluvias
+2025-03-11,2025,3,marzo,1,11,11,martes,False,2025-03,False,Lluvias
+2025-03-12,2025,3,marzo,1,11,12,miércoles,False,2025-03,False,Lluvias
+2025-03-13,2025,3,marzo,1,11,13,jueves,False,2025-03,False,Lluvias
+2025-03-14,2025,3,marzo,1,11,14,viernes,False,2025-03,False,Lluvias
+2025-03-15,2025,3,marzo,1,11,15,sábado,True,2025-03,False,Lluvias
+2025-03-16,2025,3,marzo,1,11,16,domingo,True,2025-03,False,Lluvias
+2025-03-17,2025,3,marzo,1,12,17,lunes,False,2025-03,False,Lluvias
+2025-03-18,2025,3,marzo,1,12,18,martes,False,2025-03,False,Lluvias
+2025-03-19,2025,3,marzo,1,12,19,miércoles,False,2025-03,False,Lluvias
+2025-03-20,2025,3,marzo,1,12,20,jueves,False,2025-03,False,Lluvias
+2025-03-21,2025,3,marzo,1,12,21,viernes,False,2025-03,False,Lluvias
+2025-03-22,2025,3,marzo,1,12,22,sábado,True,2025-03,False,Lluvias
+2025-03-23,2025,3,marzo,1,12,23,domingo,True,2025-03,False,Lluvias
+2025-03-24,2025,3,marzo,1,13,24,lunes,False,2025-03,False,Lluvias
+2025-03-25,2025,3,marzo,1,13,25,martes,False,2025-03,False,Lluvias
+2025-03-26,2025,3,marzo,1,13,26,miércoles,False,2025-03,False,Lluvias
+2025-03-27,2025,3,marzo,1,13,27,jueves,False,2025-03,False,Lluvias
+2025-03-28,2025,3,marzo,1,13,28,viernes,False,2025-03,False,Lluvias
+2025-03-29,2025,3,marzo,1,13,29,sábado,True,2025-03,False,Lluvias
+2025-03-30,2025,3,marzo,1,13,30,domingo,True,2025-03,False,Lluvias
+2025-03-31,2025,3,marzo,1,14,31,lunes,False,2025-03,False,Lluvias
+2025-04-01,2025,4,abril,2,14,1,martes,False,2025-04,False,Otoño
+2025-04-02,2025,4,abril,2,14,2,miércoles,False,2025-04,False,Otoño
+2025-04-03,2025,4,abril,2,14,3,jueves,False,2025-04,False,Otoño
+2025-04-04,2025,4,abril,2,14,4,viernes,False,2025-04,False,Otoño
+2025-04-05,2025,4,abril,2,14,5,sábado,True,2025-04,False,Otoño
+2025-04-06,2025,4,abril,2,14,6,domingo,True,2025-04,False,Otoño
+2025-04-07,2025,4,abril,2,15,7,lunes,False,2025-04,False,Otoño
+2025-04-08,2025,4,abril,2,15,8,martes,False,2025-04,False,Otoño
+2025-04-09,2025,4,abril,2,15,9,miércoles,False,2025-04,False,Otoño
+2025-04-10,2025,4,abril,2,15,10,jueves,False,2025-04,False,Otoño
+2025-04-11,2025,4,abril,2,15,11,viernes,False,2025-04,False,Otoño
+2025-04-12,2025,4,abril,2,15,12,sábado,True,2025-04,False,Otoño
+2025-04-13,2025,4,abril,2,15,13,domingo,True,2025-04,False,Otoño
+2025-04-14,2025,4,abril,2,16,14,lunes,False,2025-04,False,Otoño
+2025-04-15,2025,4,abril,2,16,15,martes,False,2025-04,False,Otoño
+2025-04-16,2025,4,abril,2,16,16,miércoles,False,2025-04,False,Otoño
+2025-04-17,2025,4,abril,2,16,17,jueves,False,2025-04,False,Otoño
+2025-04-18,2025,4,abril,2,16,18,viernes,False,2025-04,False,Otoño
+2025-04-19,2025,4,abril,2,16,19,sábado,True,2025-04,False,Otoño
+2025-04-20,2025,4,abril,2,16,20,domingo,True,2025-04,False,Otoño
+2025-04-21,2025,4,abril,2,17,21,lunes,False,2025-04,False,Otoño
+2025-04-22,2025,4,abril,2,17,22,martes,False,2025-04,False,Otoño
+2025-04-23,2025,4,abril,2,17,23,miércoles,False,2025-04,False,Otoño
+2025-04-24,2025,4,abril,2,17,24,jueves,False,2025-04,False,Otoño
+2025-04-25,2025,4,abril,2,17,25,viernes,False,2025-04,False,Otoño
+2025-04-26,2025,4,abril,2,17,26,sábado,True,2025-04,False,Otoño
+2025-04-27,2025,4,abril,2,17,27,domingo,True,2025-04,False,Otoño
+2025-04-28,2025,4,abril,2,18,28,lunes,False,2025-04,False,Otoño
+2025-04-29,2025,4,abril,2,18,29,martes,False,2025-04,False,Otoño
+2025-04-30,2025,4,abril,2,18,30,miércoles,False,2025-04,False,Otoño
+2025-05-01,2025,5,mayo,2,18,1,jueves,False,2025-05,True,Otoño
+2025-05-02,2025,5,mayo,2,18,2,viernes,False,2025-05,False,Otoño
+2025-05-03,2025,5,mayo,2,18,3,sábado,True,2025-05,False,Otoño
+2025-05-04,2025,5,mayo,2,18,4,domingo,True,2025-05,False,Otoño
+2025-05-05,2025,5,mayo,2,19,5,lunes,False,2025-05,False,Otoño
+2025-05-06,2025,5,mayo,2,19,6,martes,False,2025-05,False,Otoño
+2025-05-07,2025,5,mayo,2,19,7,miércoles,False,2025-05,False,Otoño
+2025-05-08,2025,5,mayo,2,19,8,jueves,False,2025-05,False,Otoño
+2025-05-09,2025,5,mayo,2,19,9,viernes,False,2025-05,False,Otoño
+2025-05-10,2025,5,mayo,2,19,10,sábado,True,2025-05,False,Otoño
+2025-05-11,2025,5,mayo,2,19,11,domingo,True,2025-05,False,Otoño
+2025-05-12,2025,5,mayo,2,20,12,lunes,False,2025-05,False,Otoño
+2025-05-13,2025,5,mayo,2,20,13,martes,False,2025-05,False,Otoño
+2025-05-14,2025,5,mayo,2,20,14,miércoles,False,2025-05,False,Otoño
+2025-05-15,2025,5,mayo,2,20,15,jueves,False,2025-05,False,Otoño
+2025-05-16,2025,5,mayo,2,20,16,viernes,False,2025-05,False,Otoño
+2025-05-17,2025,5,mayo,2,20,17,sábado,True,2025-05,False,Otoño
+2025-05-18,2025,5,mayo,2,20,18,domingo,True,2025-05,False,Otoño
+2025-05-19,2025,5,mayo,2,21,19,lunes,False,2025-05,False,Otoño
+2025-05-20,2025,5,mayo,2,21,20,martes,False,2025-05,False,Otoño
+2025-05-21,2025,5,mayo,2,21,21,miércoles,False,2025-05,False,Otoño
+2025-05-22,2025,5,mayo,2,21,22,jueves,False,2025-05,False,Otoño
+2025-05-23,2025,5,mayo,2,21,23,viernes,False,2025-05,False,Otoño
+2025-05-24,2025,5,mayo,2,21,24,sábado,True,2025-05,False,Otoño
+2025-05-25,2025,5,mayo,2,21,25,domingo,True,2025-05,False,Otoño
+2025-05-26,2025,5,mayo,2,22,26,lunes,False,2025-05,False,Otoño
+2025-05-27,2025,5,mayo,2,22,27,martes,False,2025-05,False,Otoño
+2025-05-28,2025,5,mayo,2,22,28,miércoles,False,2025-05,False,Otoño
+2025-05-29,2025,5,mayo,2,22,29,jueves,False,2025-05,False,Otoño
+2025-05-30,2025,5,mayo,2,22,30,viernes,False,2025-05,False,Otoño
+2025-05-31,2025,5,mayo,2,22,31,sábado,True,2025-05,False,Otoño
+2025-06-01,2025,6,junio,2,22,1,domingo,True,2025-06,False,Invierno seco
+2025-06-02,2025,6,junio,2,23,2,lunes,False,2025-06,False,Invierno seco
+2025-06-03,2025,6,junio,2,23,3,martes,False,2025-06,False,Invierno seco
+2025-06-04,2025,6,junio,2,23,4,miércoles,False,2025-06,False,Invierno seco
+2025-06-05,2025,6,junio,2,23,5,jueves,False,2025-06,False,Invierno seco
+2025-06-06,2025,6,junio,2,23,6,viernes,False,2025-06,False,Invierno seco
+2025-06-07,2025,6,junio,2,23,7,sábado,True,2025-06,False,Invierno seco
+2025-06-08,2025,6,junio,2,23,8,domingo,True,2025-06,False,Invierno seco
+2025-06-09,2025,6,junio,2,24,9,lunes,False,2025-06,False,Invierno seco
+2025-06-10,2025,6,junio,2,24,10,martes,False,2025-06,False,Invierno seco
+2025-06-11,2025,6,junio,2,24,11,miércoles,False,2025-06,False,Invierno seco
+2025-06-12,2025,6,junio,2,24,12,jueves,False,2025-06,False,Invierno seco
+2025-06-13,2025,6,junio,2,24,13,viernes,False,2025-06,False,Invierno seco
+2025-06-14,2025,6,junio,2,24,14,sábado,True,2025-06,False,Invierno seco
+2025-06-15,2025,6,junio,2,24,15,domingo,True,2025-06,False,Invierno seco
+2025-06-16,2025,6,junio,2,25,16,lunes,False,2025-06,False,Invierno seco
+2025-06-17,2025,6,junio,2,25,17,martes,False,2025-06,False,Invierno seco
+2025-06-18,2025,6,junio,2,25,18,miércoles,False,2025-06,False,Invierno seco
+2025-06-19,2025,6,junio,2,25,19,jueves,False,2025-06,False,Invierno seco
+2025-06-20,2025,6,junio,2,25,20,viernes,False,2025-06,False,Invierno seco
+2025-06-21,2025,6,junio,2,25,21,sábado,True,2025-06,False,Invierno seco
+2025-06-22,2025,6,junio,2,25,22,domingo,True,2025-06,False,Invierno seco
+2025-06-23,2025,6,junio,2,26,23,lunes,False,2025-06,False,Invierno seco
+2025-06-24,2025,6,junio,2,26,24,martes,False,2025-06,False,Invierno seco
+2025-06-25,2025,6,junio,2,26,25,miércoles,False,2025-06,False,Invierno seco
+2025-06-26,2025,6,junio,2,26,26,jueves,False,2025-06,False,Invierno seco
+2025-06-27,2025,6,junio,2,26,27,viernes,False,2025-06,False,Invierno seco
+2025-06-28,2025,6,junio,2,26,28,sábado,True,2025-06,False,Invierno seco
+2025-06-29,2025,6,junio,2,26,29,domingo,True,2025-06,True,Invierno seco
+2025-06-30,2025,6,junio,2,27,30,lunes,False,2025-06,False,Invierno seco
+2025-07-01,2025,7,julio,3,27,1,martes,False,2025-07,False,Invierno seco
+2025-07-02,2025,7,julio,3,27,2,miércoles,False,2025-07,False,Invierno seco
+2025-07-03,2025,7,julio,3,27,3,jueves,False,2025-07,False,Invierno seco
+2025-07-04,2025,7,julio,3,27,4,viernes,False,2025-07,False,Invierno seco
+2025-07-05,2025,7,julio,3,27,5,sábado,True,2025-07,False,Invierno seco
+2025-07-06,2025,7,julio,3,27,6,domingo,True,2025-07,False,Invierno seco
+2025-07-07,2025,7,julio,3,28,7,lunes,False,2025-07,False,Invierno seco
+2025-07-08,2025,7,julio,3,28,8,martes,False,2025-07,False,Invierno seco
+2025-07-09,2025,7,julio,3,28,9,miércoles,False,2025-07,False,Invierno seco
+2025-07-10,2025,7,julio,3,28,10,jueves,False,2025-07,False,Invierno seco
+2025-07-11,2025,7,julio,3,28,11,viernes,False,2025-07,False,Invierno seco
+2025-07-12,2025,7,julio,3,28,12,sábado,True,2025-07,False,Invierno seco
+2025-07-13,2025,7,julio,3,28,13,domingo,True,2025-07,False,Invierno seco
+2025-07-14,2025,7,julio,3,29,14,lunes,False,2025-07,False,Invierno seco
+2025-07-15,2025,7,julio,3,29,15,martes,False,2025-07,False,Invierno seco
+2025-07-16,2025,7,julio,3,29,16,miércoles,False,2025-07,False,Invierno seco
+2025-07-17,2025,7,julio,3,29,17,jueves,False,2025-07,False,Invierno seco
+2025-07-18,2025,7,julio,3,29,18,viernes,False,2025-07,False,Invierno seco
+2025-07-19,2025,7,julio,3,29,19,sábado,True,2025-07,False,Invierno seco
+2025-07-20,2025,7,julio,3,29,20,domingo,True,2025-07,False,Invierno seco
+2025-07-21,2025,7,julio,3,30,21,lunes,False,2025-07,False,Invierno seco
+2025-07-22,2025,7,julio,3,30,22,martes,False,2025-07,False,Invierno seco
+2025-07-23,2025,7,julio,3,30,23,miércoles,False,2025-07,False,Invierno seco
+2025-07-24,2025,7,julio,3,30,24,jueves,False,2025-07,False,Invierno seco
+2025-07-25,2025,7,julio,3,30,25,viernes,False,2025-07,False,Invierno seco
+2025-07-26,2025,7,julio,3,30,26,sábado,True,2025-07,False,Invierno seco
+2025-07-27,2025,7,julio,3,30,27,domingo,True,2025-07,False,Invierno seco
+2025-07-28,2025,7,julio,3,31,28,lunes,False,2025-07,True,Invierno seco
+2025-07-29,2025,7,julio,3,31,29,martes,False,2025-07,True,Invierno seco
+2025-07-30,2025,7,julio,3,31,30,miércoles,False,2025-07,False,Invierno seco
+2025-07-31,2025,7,julio,3,31,31,jueves,False,2025-07,False,Invierno seco
+2025-08-01,2025,8,agosto,3,31,1,viernes,False,2025-08,False,Invierno seco
+2025-08-02,2025,8,agosto,3,31,2,sábado,True,2025-08,False,Invierno seco
+2025-08-03,2025,8,agosto,3,31,3,domingo,True,2025-08,False,Invierno seco
+2025-08-04,2025,8,agosto,3,32,4,lunes,False,2025-08,False,Invierno seco
+2025-08-05,2025,8,agosto,3,32,5,martes,False,2025-08,False,Invierno seco
+2025-08-06,2025,8,agosto,3,32,6,miércoles,False,2025-08,False,Invierno seco
+2025-08-07,2025,8,agosto,3,32,7,jueves,False,2025-08,False,Invierno seco
+2025-08-08,2025,8,agosto,3,32,8,viernes,False,2025-08,False,Invierno seco
+2025-08-09,2025,8,agosto,3,32,9,sábado,True,2025-08,False,Invierno seco
+2025-08-10,2025,8,agosto,3,32,10,domingo,True,2025-08,False,Invierno seco
+2025-08-11,2025,8,agosto,3,33,11,lunes,False,2025-08,False,Invierno seco
+2025-08-12,2025,8,agosto,3,33,12,martes,False,2025-08,False,Invierno seco
+2025-08-13,2025,8,agosto,3,33,13,miércoles,False,2025-08,False,Invierno seco
+2025-08-14,2025,8,agosto,3,33,14,jueves,False,2025-08,False,Invierno seco
+2025-08-15,2025,8,agosto,3,33,15,viernes,False,2025-08,False,Invierno seco
+2025-08-16,2025,8,agosto,3,33,16,sábado,True,2025-08,False,Invierno seco
+2025-08-17,2025,8,agosto,3,33,17,domingo,True,2025-08,False,Invierno seco
+2025-08-18,2025,8,agosto,3,34,18,lunes,False,2025-08,False,Invierno seco
+2025-08-19,2025,8,agosto,3,34,19,martes,False,2025-08,False,Invierno seco
+2025-08-20,2025,8,agosto,3,34,20,miércoles,False,2025-08,False,Invierno seco
+2025-08-21,2025,8,agosto,3,34,21,jueves,False,2025-08,False,Invierno seco
+2025-08-22,2025,8,agosto,3,34,22,viernes,False,2025-08,False,Invierno seco
+2025-08-23,2025,8,agosto,3,34,23,sábado,True,2025-08,False,Invierno seco
+2025-08-24,2025,8,agosto,3,34,24,domingo,True,2025-08,False,Invierno seco
+2025-08-25,2025,8,agosto,3,35,25,lunes,False,2025-08,False,Invierno seco
+2025-08-26,2025,8,agosto,3,35,26,martes,False,2025-08,False,Invierno seco
+2025-08-27,2025,8,agosto,3,35,27,miércoles,False,2025-08,False,Invierno seco
+2025-08-28,2025,8,agosto,3,35,28,jueves,False,2025-08,False,Invierno seco
+2025-08-29,2025,8,agosto,3,35,29,viernes,False,2025-08,False,Invierno seco
+2025-08-30,2025,8,agosto,3,35,30,sábado,True,2025-08,True,Invierno seco
+2025-08-31,2025,8,agosto,3,35,31,domingo,True,2025-08,False,Invierno seco
+2025-09-01,2025,9,setiembre,3,36,1,lunes,False,2025-09,False,Primavera
+2025-09-02,2025,9,setiembre,3,36,2,martes,False,2025-09,False,Primavera
+2025-09-03,2025,9,setiembre,3,36,3,miércoles,False,2025-09,False,Primavera
+2025-09-04,2025,9,setiembre,3,36,4,jueves,False,2025-09,False,Primavera
+2025-09-05,2025,9,setiembre,3,36,5,viernes,False,2025-09,False,Primavera
+2025-09-06,2025,9,setiembre,3,36,6,sábado,True,2025-09,False,Primavera
+2025-09-07,2025,9,setiembre,3,36,7,domingo,True,2025-09,False,Primavera
+2025-09-08,2025,9,setiembre,3,37,8,lunes,False,2025-09,False,Primavera
+2025-09-09,2025,9,setiembre,3,37,9,martes,False,2025-09,False,Primavera
+2025-09-10,2025,9,setiembre,3,37,10,miércoles,False,2025-09,False,Primavera
+2025-09-11,2025,9,setiembre,3,37,11,jueves,False,2025-09,False,Primavera
+2025-09-12,2025,9,setiembre,3,37,12,viernes,False,2025-09,False,Primavera
+2025-09-13,2025,9,setiembre,3,37,13,sábado,True,2025-09,False,Primavera
+2025-09-14,2025,9,setiembre,3,37,14,domingo,True,2025-09,False,Primavera
+2025-09-15,2025,9,setiembre,3,38,15,lunes,False,2025-09,False,Primavera
+2025-09-16,2025,9,setiembre,3,38,16,martes,False,2025-09,False,Primavera
+2025-09-17,2025,9,setiembre,3,38,17,miércoles,False,2025-09,False,Primavera
+2025-09-18,2025,9,setiembre,3,38,18,jueves,False,2025-09,False,Primavera
+2025-09-19,2025,9,setiembre,3,38,19,viernes,False,2025-09,False,Primavera
+2025-09-20,2025,9,setiembre,3,38,20,sábado,True,2025-09,False,Primavera
+2025-09-21,2025,9,setiembre,3,38,21,domingo,True,2025-09,False,Primavera
+2025-09-22,2025,9,setiembre,3,39,22,lunes,False,2025-09,False,Primavera
+2025-09-23,2025,9,setiembre,3,39,23,martes,False,2025-09,False,Primavera
+2025-09-24,2025,9,setiembre,3,39,24,miércoles,False,2025-09,False,Primavera
+2025-09-25,2025,9,setiembre,3,39,25,jueves,False,2025-09,False,Primavera
+2025-09-26,2025,9,setiembre,3,39,26,viernes,False,2025-09,False,Primavera
+2025-09-27,2025,9,setiembre,3,39,27,sábado,True,2025-09,False,Primavera
+2025-09-28,2025,9,setiembre,3,39,28,domingo,True,2025-09,False,Primavera
+2025-09-29,2025,9,setiembre,3,40,29,lunes,False,2025-09,False,Primavera
+2025-09-30,2025,9,setiembre,3,40,30,martes,False,2025-09,False,Primavera
+2025-10-01,2025,10,octubre,4,40,1,miércoles,False,2025-10,False,Primavera
+2025-10-02,2025,10,octubre,4,40,2,jueves,False,2025-10,False,Primavera
+2025-10-03,2025,10,octubre,4,40,3,viernes,False,2025-10,False,Primavera
+2025-10-04,2025,10,octubre,4,40,4,sábado,True,2025-10,False,Primavera
+2025-10-05,2025,10,octubre,4,40,5,domingo,True,2025-10,False,Primavera
+2025-10-06,2025,10,octubre,4,41,6,lunes,False,2025-10,False,Primavera
+2025-10-07,2025,10,octubre,4,41,7,martes,False,2025-10,False,Primavera
+2025-10-08,2025,10,octubre,4,41,8,miércoles,False,2025-10,True,Primavera
+2025-10-09,2025,10,octubre,4,41,9,jueves,False,2025-10,False,Primavera
+2025-10-10,2025,10,octubre,4,41,10,viernes,False,2025-10,False,Primavera
+2025-10-11,2025,10,octubre,4,41,11,sábado,True,2025-10,False,Primavera
+2025-10-12,2025,10,octubre,4,41,12,domingo,True,2025-10,False,Primavera
+2025-10-13,2025,10,octubre,4,42,13,lunes,False,2025-10,False,Primavera
+2025-10-14,2025,10,octubre,4,42,14,martes,False,2025-10,False,Primavera
+2025-10-15,2025,10,octubre,4,42,15,miércoles,False,2025-10,False,Primavera
+2025-10-16,2025,10,octubre,4,42,16,jueves,False,2025-10,False,Primavera
+2025-10-17,2025,10,octubre,4,42,17,viernes,False,2025-10,False,Primavera
+2025-10-18,2025,10,octubre,4,42,18,sábado,True,2025-10,False,Primavera
+2025-10-19,2025,10,octubre,4,42,19,domingo,True,2025-10,False,Primavera
+2025-10-20,2025,10,octubre,4,43,20,lunes,False,2025-10,False,Primavera
+2025-10-21,2025,10,octubre,4,43,21,martes,False,2025-10,False,Primavera
+2025-10-22,2025,10,octubre,4,43,22,miércoles,False,2025-10,False,Primavera
+2025-10-23,2025,10,octubre,4,43,23,jueves,False,2025-10,False,Primavera
+2025-10-24,2025,10,octubre,4,43,24,viernes,False,2025-10,False,Primavera
+2025-10-25,2025,10,octubre,4,43,25,sábado,True,2025-10,False,Primavera
+2025-10-26,2025,10,octubre,4,43,26,domingo,True,2025-10,False,Primavera
+2025-10-27,2025,10,octubre,4,44,27,lunes,False,2025-10,False,Primavera
+2025-10-28,2025,10,octubre,4,44,28,martes,False,2025-10,False,Primavera
+2025-10-29,2025,10,octubre,4,44,29,miércoles,False,2025-10,False,Primavera
+2025-10-30,2025,10,octubre,4,44,30,jueves,False,2025-10,False,Primavera
+2025-10-31,2025,10,octubre,4,44,31,viernes,False,2025-10,False,Primavera
+2025-11-01,2025,11,noviembre,4,44,1,sábado,True,2025-11,True,Primavera
+2025-11-02,2025,11,noviembre,4,44,2,domingo,True,2025-11,False,Primavera
+2025-11-03,2025,11,noviembre,4,45,3,lunes,False,2025-11,False,Primavera
+2025-11-04,2025,11,noviembre,4,45,4,martes,False,2025-11,False,Primavera
+2025-11-05,2025,11,noviembre,4,45,5,miércoles,False,2025-11,False,Primavera
+2025-11-06,2025,11,noviembre,4,45,6,jueves,False,2025-11,False,Primavera
+2025-11-07,2025,11,noviembre,4,45,7,viernes,False,2025-11,False,Primavera
+2025-11-08,2025,11,noviembre,4,45,8,sábado,True,2025-11,False,Primavera
+2025-11-09,2025,11,noviembre,4,45,9,domingo,True,2025-11,False,Primavera
+2025-11-10,2025,11,noviembre,4,46,10,lunes,False,2025-11,False,Primavera
+2025-11-11,2025,11,noviembre,4,46,11,martes,False,2025-11,False,Primavera
+2025-11-12,2025,11,noviembre,4,46,12,miércoles,False,2025-11,False,Primavera
+2025-11-13,2025,11,noviembre,4,46,13,jueves,False,2025-11,False,Primavera
+2025-11-14,2025,11,noviembre,4,46,14,viernes,False,2025-11,False,Primavera
+2025-11-15,2025,11,noviembre,4,46,15,sábado,True,2025-11,False,Primavera
+2025-11-16,2025,11,noviembre,4,46,16,domingo,True,2025-11,False,Primavera
+2025-11-17,2025,11,noviembre,4,47,17,lunes,False,2025-11,False,Primavera
+2025-11-18,2025,11,noviembre,4,47,18,martes,False,2025-11,False,Primavera
+2025-11-19,2025,11,noviembre,4,47,19,miércoles,False,2025-11,False,Primavera
+2025-11-20,2025,11,noviembre,4,47,20,jueves,False,2025-11,False,Primavera
+2025-11-21,2025,11,noviembre,4,47,21,viernes,False,2025-11,False,Primavera
+2025-11-22,2025,11,noviembre,4,47,22,sábado,True,2025-11,False,Primavera
+2025-11-23,2025,11,noviembre,4,47,23,domingo,True,2025-11,False,Primavera
+2025-11-24,2025,11,noviembre,4,48,24,lunes,False,2025-11,False,Primavera
+2025-11-25,2025,11,noviembre,4,48,25,martes,False,2025-11,False,Primavera
+2025-11-26,2025,11,noviembre,4,48,26,miércoles,False,2025-11,False,Primavera
+2025-11-27,2025,11,noviembre,4,48,27,jueves,False,2025-11,False,Primavera
+2025-11-28,2025,11,noviembre,4,48,28,viernes,False,2025-11,False,Primavera
+2025-11-29,2025,11,noviembre,4,48,29,sábado,True,2025-11,False,Primavera
+2025-11-30,2025,11,noviembre,4,48,30,domingo,True,2025-11,False,Primavera
+2025-12-01,2025,12,diciembre,4,49,1,lunes,False,2025-12,False,Lluvias
+2025-12-02,2025,12,diciembre,4,49,2,martes,False,2025-12,False,Lluvias
+2025-12-03,2025,12,diciembre,4,49,3,miércoles,False,2025-12,False,Lluvias
+2025-12-04,2025,12,diciembre,4,49,4,jueves,False,2025-12,False,Lluvias
+2025-12-05,2025,12,diciembre,4,49,5,viernes,False,2025-12,False,Lluvias
+2025-12-06,2025,12,diciembre,4,49,6,sábado,True,2025-12,False,Lluvias
+2025-12-07,2025,12,diciembre,4,49,7,domingo,True,2025-12,False,Lluvias
+2025-12-08,2025,12,diciembre,4,50,8,lunes,False,2025-12,True,Lluvias
+2025-12-09,2025,12,diciembre,4,50,9,martes,False,2025-12,False,Lluvias
+2025-12-10,2025,12,diciembre,4,50,10,miércoles,False,2025-12,False,Lluvias
+2025-12-11,2025,12,diciembre,4,50,11,jueves,False,2025-12,False,Lluvias
+2025-12-12,2025,12,diciembre,4,50,12,viernes,False,2025-12,False,Lluvias
+2025-12-13,2025,12,diciembre,4,50,13,sábado,True,2025-12,False,Lluvias
+2025-12-14,2025,12,diciembre,4,50,14,domingo,True,2025-12,False,Lluvias
+2025-12-15,2025,12,diciembre,4,51,15,lunes,False,2025-12,False,Lluvias
+2025-12-16,2025,12,diciembre,4,51,16,martes,False,2025-12,False,Lluvias
+2025-12-17,2025,12,diciembre,4,51,17,miércoles,False,2025-12,False,Lluvias
+2025-12-18,2025,12,diciembre,4,51,18,jueves,False,2025-12,False,Lluvias
+2025-12-19,2025,12,diciembre,4,51,19,viernes,False,2025-12,False,Lluvias
+2025-12-20,2025,12,diciembre,4,51,20,sábado,True,2025-12,False,Lluvias
+2025-12-21,2025,12,diciembre,4,51,21,domingo,True,2025-12,False,Lluvias
+2025-12-22,2025,12,diciembre,4,52,22,lunes,False,2025-12,False,Lluvias
+2025-12-23,2025,12,diciembre,4,52,23,martes,False,2025-12,False,Lluvias
+2025-12-24,2025,12,diciembre,4,52,24,miércoles,False,2025-12,False,Lluvias
+2025-12-25,2025,12,diciembre,4,52,25,jueves,False,2025-12,True,Lluvias
+2025-12-26,2025,12,diciembre,4,52,26,viernes,False,2025-12,False,Lluvias
+2025-12-27,2025,12,diciembre,4,52,27,sábado,True,2025-12,False,Lluvias
+2025-12-28,2025,12,diciembre,4,52,28,domingo,True,2025-12,False,Lluvias
+2025-12-29,2025,12,diciembre,4,1,29,lunes,False,2025-12,False,Lluvias
+2025-12-30,2025,12,diciembre,4,1,30,martes,False,2025-12,False,Lluvias
+2025-12-31,2025,12,diciembre,4,1,31,miércoles,False,2025-12,False,Lluvias

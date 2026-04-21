@@ -1,0 +1,23 @@
+# Power BI binary files — use .pbip instead
+*.pbix
+*.pbit
+
+# Power BI temp/cache
+*.pbip.bak
+*.tmp
+.pbi/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/

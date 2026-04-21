@@ -1,0 +1,22 @@
+Equipo_ID,Codigo_Equipo,Tipo_Equipo,Modelo,Marca,Anio_Fabricacion,Edad_Anios,Horas_Nominales_Anuales,Costo_Hora_Operacion_USD,Costo_Hora_Parada_USD,Criticidad,Zona,Area,Estado_Actual
+1,CAM-001,Camión,CAT 797F,Caterpillar,2018,7,7500,267,1888,Media,Tajo Norte,Mina,Operativo
+2,CAM-002,Camión,CAT 797F,Caterpillar,2016,9,7500,283,1816,Alta,Tajo Central,Mina,Operativo
+3,CAM-003,Camión,CAT 797F,Caterpillar,2022,3,7500,297,1829,Media,Tajo Norte,Mina,Operativo
+4,CAM-004,Camión,CAT 793F,Caterpillar,2019,6,7500,244,1448,Alta,Tajo Central,Mina,Operativo
+5,CAM-005,Camión,CAT 793F,Caterpillar,2016,9,7500,235,1414,Alta,Tajo Sur,Mina,Operativo
+6,CAM-006,Camión,CAT 793F,Caterpillar,2019,6,7500,222,1450,Alta,Tajo Central,Mina,Operativo
+7,CAM-007,Camión,Komatsu 930E,Komatsu,2015,10,7500,253,1608,Media,Tajo Sur,Mina,Operativo
+8,CAM-008,Camión,Komatsu 930E,Komatsu,2020,5,7500,246,1771,Media,Tajo Norte,Mina,Operativo
+9,CAM-009,Camión,Komatsu 930E,Komatsu,2016,9,7500,279,1731,Alta,Tajo Sur,Mina,Operativo
+10,PAL-010,Pala,CAT 6060,Caterpillar,2016,9,7000,833,5153,Alta,Tajo Norte,Mina,En Mantenimiento
+11,PAL-011,Pala,CAT 6060,Caterpillar,2020,5,7000,863,5289,Alta,Tajo Sur,Mina,Operativo
+12,PAL-012,Pala,Komatsu PC8000,Komatsu,2017,8,7000,773,4889,Alta,Tajo Norte,Mina,Operativo
+13,PAL-013,Pala,Komatsu PC8000,Komatsu,2017,8,7000,783,4853,Alta,Tajo Norte,Mina,Operativo
+14,PAL-014,Pala,Liebherr R9800,Liebherr,2019,6,7000,828,4914,Alta,Tajo Norte,Mina,Operativo
+15,PAL-015,Pala,Liebherr R9800,Liebherr,2022,3,7000,823,5028,Alta,Tajo Central,Mina,Operativo
+16,PER-016,Perforadora,320XPC P&H,Komatsu,2020,5,6800,432,2622,Media,Tajo Norte,Mina,En Mantenimiento
+17,PER-017,Perforadora,320XPC P&H,Komatsu,2020,5,6800,408,2571,Media,Tajo Sur,Mina,Operativo
+18,PER-018,Perforadora,Pit Viper 271,Epiroc,2018,7,6800,396,2398,Media,Tajo Sur,Mina,Operativo
+19,PER-019,Perforadora,Pit Viper 271,Epiroc,2018,7,6800,373,2430,Alta,Tajo Norte,Mina,Operativo
+20,PER-020,Perforadora,DM45,Epiroc,2017,8,6800,356,2236,Alta,Tajo Central,Mina,Operativo
+21,PER-021,Perforadora,DM45,Epiroc,2014,11,6800,361,2151,Alta,Tajo Norte,Mina,Operativo
