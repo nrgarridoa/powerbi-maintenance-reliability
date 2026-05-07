@@ -1,11 +1,15 @@
-# Power BI binary files — use .pbip instead
+# Power BI files (no se suben al repo publico)
 *.pbix
 *.pbit
-
-# Power BI temp/cache
-*.pbip.bak
-*.tmp
+*.pbip
+dashboard_reability.Report/
+dashboard_reability.SemanticModel/
 .pbi/
+diagramLayout.json
+
+# Documentacion interna (ya esta en el README)
+docs/
+CLAUDE.md
 
 # OS
 Thumbs.db
