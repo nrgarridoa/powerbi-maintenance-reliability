@@ -38,7 +38,7 @@ Este dashboard transforma datos de operacion, fallas y ordenes de trabajo en int
 
 ---
 
-## Que problema resuelve
+## Qué problema resuelve
 
 | Sin este dashboard | Con este dashboard |
 |---|---|
@@ -77,7 +77,7 @@ Los datos revelan patrones criticos para la gestion de mantenimiento:
 
 ---
 
-## Paginas del dashboard
+## Páginas del dashboard
 
 ### Home
 Panorama ejecutivo con 6 KPIs clave: disponibilidad (82.6%), utilizacion (94.1%), MTBF (154.9 hrs), MTTR (5.08 hrs), cumplimiento plan (81.9%) y ratio PM/CM (0.31). Navegacion por botones a las 7 paginas de analisis. Graficos resumen de distribucion de horas, OTs por tipo y fallas por tipo de equipo.
@@ -108,7 +108,7 @@ Pagina oculta accesible desde clic derecho en cualquier equipo. Muestra informac
 
 ---
 
-## Contexto de la operacion
+## Contexto de la operación
 
 | Parametro | Valor |
 |---|---|
@@ -144,7 +144,7 @@ Formacion continua en Platzi, Coursera, iSE-Latam y Netzun en analitica de datos
 ---
 
 <details>
-<summary><strong>Documentacion Tecnica (clic para expandir)</strong></summary>
+<summary><strong>Documentación Técnica (clic para expandir)</strong></summary>
 
 ## Modelo de datos
 
@@ -262,7 +262,7 @@ powerbi-maintenance-reliability/
 |   |-- generate_mining_data.py
 ```
 
-## Como usar los datos
+## Cómo usar los datos
 
 1. **Clonar el repositorio**
    ```
@@ -278,7 +278,7 @@ powerbi-maintenance-reliability/
 3. **Aplicar el tema**
    - El tema `tema_mantenimiento_dark.json` se puede descargar desde `data/` o recrear con los colores de la tabla
 
-## Stack tecnologico
+## Stack tecnológico
 
 | Herramienta | Uso |
 |---|---|
